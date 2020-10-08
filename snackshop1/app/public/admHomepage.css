@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+  background-image: url(./img/admbg.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size:cover;
+  background-attachment:fixed;
+  
+}
+h2{
+  margin-bottom: 10px;
+  color: #fffefa;
+  text-shadow:3px 3px 3px #255d98;
+}
+.warp{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+#updateDiv{
+  margin: 20px auto;
+}
+#updateDiv{
+  /* margin: 0 45%; */
+  width: 334px;
+}
+input[type=file] {
+  display: inline-block;
+}
+input{
+  margin-bottom: 10px;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+table{
+  margin: 0 auto;
+  width: 1000px;
+}
+th,tr,td{
+  text-align: center;
+  border: 1px solid #aaa;
+}
+a{
+  text-decoration: none;
+  color: black;
+}

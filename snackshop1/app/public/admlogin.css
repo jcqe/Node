@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(./img/admbc.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size:cover;
+   background-attachment:fixed;
+}
+div{
+    box-sizing: border-box;
+}
+.wp{
+    width: 334px;
+    height: 460px;
+    padding: 0px 38px;
+    margin: 50px auto 0;
+    background-color: rgba(255, 255, 255, 0.8);
+  
+   
+}
+.title{
+    font-weight: 600;
+    font-size: 20px;
+    padding-top:  72px;
+    padding-bottom: 35px;
+}
+.title span{
+    font-size: 14px;
+    font-weight: normal;
+ 
+    padding: 8px;
+}
+.input input{
+    width: 250px;
+    height: 40px;
+    margin-bottom: 25px;
+    background-color: #F4F0F0;
+}
+.loginy{
+    padding-bottom: 45px;
+}
+.loginy .left{
+    float: left;
+  
+    font-size: 14px;
+   
+}
+.loginy .right{
+    float: right;
+   
+
+}
+.bottom{
+    width: 250px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#inf{
+    color: red;
+}

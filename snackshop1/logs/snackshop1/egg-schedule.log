@@ -1,0 +1,348 @@
+2020-08-11 00:00:51,476 INFO 11820 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 00:00:51,476 INFO 11820 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 00:00:51,476 INFO 11820 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 00:01:03,321 INFO 3384 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 00:01:03,321 INFO 3384 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 00:01:03,321 INFO 3384 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 00:04:28,898 INFO 14580 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 00:04:28,898 INFO 14580 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 00:04:28,898 INFO 14580 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 00:05:09,996 INFO 15272 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 00:05:09,997 INFO 15272 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 00:05:09,997 INFO 15272 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 00:05:37,910 INFO 14896 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 00:05:37,910 INFO 14896 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 00:05:37,910 INFO 14896 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 00:12:54,143 INFO 11056 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 00:12:54,143 INFO 11056 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 00:12:54,143 INFO 11056 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 00:12:54,439 INFO 5164 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 15425566ms at 2020-08-11 04:30:00.005
+2020-08-11 00:12:54,442 INFO 5164 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 85625561ms at 2020-08-12 00:00:00.003
+2020-08-11 00:12:54,444 INFO 5164 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 85626558ms at 2020-08-12 00:00:01.002
+2020-08-11 00:30:09,992 INFO 12184 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 00:30:09,992 INFO 12184 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 00:30:09,992 INFO 12184 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 00:30:41,093 INFO 8424 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 00:30:41,093 INFO 8424 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 00:30:41,093 INFO 8424 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 00:34:10,122 INFO 13744 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 00:34:10,122 INFO 13744 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 00:34:10,122 INFO 13744 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 00:35:50,661 INFO 14176 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 00:35:50,661 INFO 14176 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 00:35:50,661 INFO 14176 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 00:37:16,857 INFO 15248 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 00:37:16,857 INFO 15248 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 00:37:16,857 INFO 15248 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 00:37:39,445 INFO 3736 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 00:37:39,445 INFO 3736 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 00:37:39,445 INFO 3736 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 00:40:41,522 INFO 8416 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 00:40:41,522 INFO 8416 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 00:40:41,522 INFO 8416 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:11:20,404 INFO 2564 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:11:20,404 INFO 2564 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:11:20,404 INFO 2564 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:12:16,834 INFO 3620 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:12:16,834 INFO 3620 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:12:16,834 INFO 3620 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:18:43,589 INFO 2768 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 11476442ms at 2020-08-11 04:30:00.031
+2020-08-11 01:18:43,590 INFO 2768 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 81676411ms at 2020-08-12 00:00:00.001
+2020-08-11 01:18:43,592 INFO 2768 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 81677410ms at 2020-08-12 00:00:01.002
+2020-08-11 01:18:43,244 INFO 14332 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:18:43,244 INFO 14332 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:18:43,244 INFO 14332 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:49:43,593 INFO 12040 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:49:43,593 INFO 12040 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:49:43,593 INFO 12040 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:49:45,187 INFO 7456 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:49:45,187 INFO 7456 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:49:45,187 INFO 7456 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:49:46,768 INFO 7288 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:49:46,768 INFO 7288 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:49:46,768 INFO 7288 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:49:50,627 INFO 14444 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:49:50,627 INFO 14444 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:49:50,627 INFO 14444 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:49:55,773 INFO 12460 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:49:55,773 INFO 12460 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:49:55,773 INFO 12460 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:49:59,172 INFO 3848 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:49:59,172 INFO 3848 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:49:59,172 INFO 3848 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:58:10,860 INFO 14216 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:58:10,860 INFO 14216 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:58:10,860 INFO 14216 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:58:19,963 INFO 12768 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:58:19,963 INFO 12768 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:58:19,963 INFO 12768 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:58:26,252 INFO 10272 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:58:26,252 INFO 10272 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:58:26,252 INFO 10272 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:59:31,236 INFO 13268 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:59:31,236 INFO 13268 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:59:31,236 INFO 13268 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 01:59:38,080 INFO 13992 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 01:59:38,080 INFO 13992 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 01:59:38,080 INFO 13992 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 02:02:18,366 INFO 14268 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 02:02:18,366 INFO 14268 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 02:02:18,366 INFO 14268 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 09:04:03,297 INFO 1048 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 09:04:03,297 INFO 1048 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 09:04:03,297 INFO 1048 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 09:04:06,152 INFO 15216 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 09:04:06,152 INFO 15216 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 09:04:06,152 INFO 15216 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 09:04:06,837 INFO 15212 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69953200ms at 2020-08-12 04:30:00.037
+2020-08-11 09:04:06,839 INFO 15212 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 53753162ms at 2020-08-12 00:00:00.001
+2020-08-11 09:04:06,840 INFO 15212 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 53754161ms at 2020-08-12 00:00:01.001
+2020-08-11 09:04:07,885 INFO 6276 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 09:04:07,885 INFO 6276 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 09:04:07,885 INFO 6276 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 11:26:04,219 INFO 14128 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 11:26:04,219 INFO 14128 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 11:26:04,219 INFO 14128 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 11:26:08,054 INFO 6188 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 11:26:08,054 INFO 6188 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 11:26:08,054 INFO 6188 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 13:35:11,855 INFO 4720 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 13:35:11,855 INFO 4720 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 13:35:11,855 INFO 4720 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 13:35:14,589 INFO 8020 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 13:35:14,589 INFO 8020 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 13:35:14,589 INFO 8020 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 13:35:15,387 INFO 9868 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 53684619ms at 2020-08-12 04:30:00.006
+2020-08-11 13:35:15,387 INFO 9868 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 37484613ms at 2020-08-12 00:00:00.000
+2020-08-11 13:35:15,388 INFO 9868 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37485613ms at 2020-08-12 00:00:01.001
+2020-08-11 13:35:16,424 INFO 15192 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 13:35:16,424 INFO 15192 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 13:35:16,424 INFO 15192 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 13:39:00,193 INFO 3324 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 13:39:00,193 INFO 3324 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 13:39:00,193 INFO 3324 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 13:39:10,355 INFO 12556 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 13:39:10,355 INFO 12556 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 13:39:10,355 INFO 12556 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 13:39:13,845 INFO 14932 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 13:39:13,845 INFO 14932 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 13:39:13,845 INFO 14932 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 13:42:25,401 INFO 10644 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 13:42:25,401 INFO 10644 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 13:42:25,401 INFO 10644 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 13:45:21,607 INFO 5856 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 13:45:21,607 INFO 5856 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 13:45:21,607 INFO 5856 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:09:51,006 INFO 9248 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:09:51,006 INFO 9248 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:09:51,006 INFO 9248 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:10:10,883 INFO 340 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:10:10,883 INFO 340 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:10:10,883 INFO 340 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:15:07,667 INFO 14860 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:15:07,667 INFO 14860 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:15:07,667 INFO 14860 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:22:48,230 INFO 6232 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:22:48,230 INFO 6232 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:22:48,230 INFO 6232 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:35:50,672 INFO 6108 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:35:50,672 INFO 6108 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:35:50,672 INFO 6108 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:35:52,962 INFO 1728 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:35:52,962 INFO 1728 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:35:52,962 INFO 1728 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:37:12,713 INFO 2684 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:37:12,713 INFO 2684 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:37:12,713 INFO 2684 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:37:14,388 INFO 9844 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:37:14,388 INFO 9844 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:37:14,388 INFO 9844 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:38:16,385 INFO 8148 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:38:16,385 INFO 8148 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:38:16,385 INFO 8148 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:38:18,656 INFO 12448 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:38:18,656 INFO 12448 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:38:18,656 INFO 12448 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:39:30,007 INFO 12336 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:39:30,008 INFO 12336 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:39:30,008 INFO 12336 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:39:31,303 INFO 9132 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:39:31,303 INFO 9132 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:39:31,303 INFO 9132 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:42:37,673 INFO 13320 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:42:37,673 INFO 13320 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:42:37,673 INFO 13320 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 14:43:28,115 INFO 2392 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 14:43:28,116 INFO 2392 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 14:43:28,116 INFO 2392 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 15:02:54,568 INFO 11472 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 15:02:54,568 INFO 11472 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 15:02:54,568 INFO 11472 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 15:03:30,923 INFO 11680 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 15:03:30,923 INFO 11680 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 15:03:30,923 INFO 11680 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 15:03:51,157 INFO 11196 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 15:03:51,157 INFO 11196 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 15:03:51,157 INFO 11196 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 15:05:08,277 INFO 536 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 15:05:08,277 INFO 536 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 15:05:08,277 INFO 536 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 15:05:12,853 INFO 1816 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 15:05:12,853 INFO 1816 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 15:05:12,853 INFO 1816 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 15:05:28,028 INFO 4964 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 15:05:28,028 INFO 4964 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 15:05:28,028 INFO 4964 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 15:06:44,095 INFO 10936 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 15:06:44,095 INFO 10936 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 15:06:44,095 INFO 10936 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 15:06:54,624 INFO 6240 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 15:06:54,624 INFO 6240 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 15:06:54,624 INFO 6240 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 15:07:15,816 INFO 5208 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 15:07:15,816 INFO 5208 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 15:07:15,816 INFO 5208 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 15:12:11,686 INFO 10784 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 15:12:11,686 INFO 10784 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 15:12:11,686 INFO 10784 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 17:06:31,986 INFO 11016 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 17:06:31,986 INFO 11016 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 17:06:31,986 INFO 11016 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 17:06:34,940 INFO 5760 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 17:06:34,940 INFO 5760 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 17:06:34,940 INFO 5760 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 19:36:00,706 INFO 15196 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 19:36:00,706 INFO 15196 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 19:36:00,706 INFO 15196 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 19:36:08,961 INFO 12904 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 32031061ms at 2020-08-12 04:30:00.022
+2020-08-11 19:36:08,961 INFO 12904 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 15831039ms at 2020-08-12 00:00:00.000
+2020-08-11 19:36:08,961 INFO 12904 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 15832039ms at 2020-08-12 00:00:01.000
+2020-08-11 19:36:08,714 INFO 14576 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 19:36:08,714 INFO 14576 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 19:36:08,714 INFO 14576 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 19:36:10,513 INFO 9600 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 19:36:10,513 INFO 9600 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 19:36:10,513 INFO 9600 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 21:42:33,689 INFO 11348 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 21:42:33,690 INFO 11348 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 21:42:33,690 INFO 11348 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 21:42:34,717 INFO 10740 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 24445287ms at 2020-08-12 04:30:00.004
+2020-08-11 21:42:34,718 INFO 10740 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 8245283ms at 2020-08-12 00:00:00.001
+2020-08-11 21:42:34,718 INFO 10740 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 8246282ms at 2020-08-12 00:00:01.000
+2020-08-11 21:42:35,918 INFO 10956 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 21:42:35,918 INFO 10956 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 21:42:35,918 INFO 10956 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-11 21:42:37,912 INFO 7828 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-11 21:42:37,912 INFO 7828 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-11 21:42:37,912 INFO 7828 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 10:11:23,452 INFO 3944 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 10:11:23,452 INFO 3944 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 10:11:23,452 INFO 3944 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 10:11:18,883 INFO 2172 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 10:11:18,883 INFO 2172 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 10:11:18,883 INFO 2172 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 10:11:25,619 INFO 12920 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 65914385ms at 2020-08-13 04:30:00.004
+2020-08-12 10:11:25,619 INFO 12920 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 49714381ms at 2020-08-13 00:00:00.000
+2020-08-12 10:11:25,620 INFO 12920 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 49715381ms at 2020-08-13 00:00:01.001
+2020-08-12 10:11:26,909 INFO 8436 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 10:11:26,909 INFO 8436 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 10:11:26,909 INFO 8436 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 13:33:48,540 INFO 5044 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 13:33:48,540 INFO 5044 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 13:33:48,540 INFO 5044 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 13:33:50,021 INFO 8924 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 53769983ms at 2020-08-13 04:30:00.004
+2020-08-12 13:33:50,021 INFO 8924 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 37569979ms at 2020-08-13 00:00:00.000
+2020-08-12 13:33:50,021 INFO 8924 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37570979ms at 2020-08-13 00:00:01.000
+2020-08-12 13:33:50,641 INFO 14384 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 13:33:50,641 INFO 14384 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 13:33:50,641 INFO 14384 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 13:33:51,924 INFO 12684 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 13:33:51,924 INFO 12684 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 13:33:51,924 INFO 12684 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 13:42:59,854 INFO 3796 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 53220148ms at 2020-08-13 04:30:00.002
+2020-08-12 13:42:59,855 INFO 3796 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 37020145ms at 2020-08-13 00:00:00.000
+2020-08-12 13:42:59,855 INFO 3796 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37021145ms at 2020-08-13 00:00:01.000
+2020-08-12 13:42:59,610 INFO 13524 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 13:42:59,610 INFO 13524 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 13:42:59,610 INFO 13524 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 13:52:46,596 INFO 7104 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 52633407ms at 2020-08-13 04:30:00.003
+2020-08-12 13:52:46,596 INFO 7104 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 36433404ms at 2020-08-13 00:00:00.000
+2020-08-12 13:52:46,597 INFO 7104 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 36434404ms at 2020-08-13 00:00:01.001
+2020-08-12 13:52:46,254 INFO 2592 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 13:52:46,254 INFO 2592 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 13:52:46,254 INFO 2592 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 14:47:46,668 INFO 14532 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 14:47:46,668 INFO 14532 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 14:47:46,668 INFO 14532 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 14:47:52,381 INFO 14064 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 14:47:52,381 INFO 14064 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 14:47:52,381 INFO 14064 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 14:51:36,690 INFO 13604 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 14:51:36,690 INFO 13604 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 14:51:36,690 INFO 13604 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 14:52:07,579 INFO 11044 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 14:52:07,579 INFO 11044 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 14:52:07,579 INFO 11044 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 14:53:25,804 INFO 14060 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 14:53:25,804 INFO 14060 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 14:53:25,804 INFO 14060 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 14:54:49,113 INFO 13636 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 14:54:49,113 INFO 13636 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 14:54:49,113 INFO 13636 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 14:55:19,720 INFO 13024 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 14:55:19,720 INFO 13024 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 14:55:19,720 INFO 13024 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 14:55:47,487 INFO 4836 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 14:55:47,487 INFO 4836 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 14:55:47,487 INFO 4836 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 15:00:43,588 INFO 2860 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 15:00:43,588 INFO 2860 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 15:00:43,588 INFO 2860 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 15:01:00,917 INFO 13408 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 15:01:00,917 INFO 13408 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 15:01:00,917 INFO 13408 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 15:01:51,536 INFO 4532 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 15:01:51,536 INFO 4532 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 15:01:51,536 INFO 4532 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 15:16:35,436 INFO 8336 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 15:16:35,436 INFO 8336 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 15:16:35,436 INFO 8336 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 15:20:00,900 INFO 14784 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 15:20:00,900 INFO 14784 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 15:20:00,900 INFO 14784 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 15:20:41,246 INFO 14348 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 15:20:41,246 INFO 14348 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 15:20:41,246 INFO 14348 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 15:21:10,709 INFO 10956 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 15:21:10,709 INFO 10956 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 15:21:10,709 INFO 10956 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 15:22:40,545 INFO 1216 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 15:22:40,545 INFO 1216 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 15:22:40,545 INFO 1216 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 15:28:23,344 INFO 9936 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 15:28:23,344 INFO 9936 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 15:28:23,344 INFO 9936 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 16:06:05,930 INFO 14384 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 16:06:05,930 INFO 14384 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 16:06:05,930 INFO 14384 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 16:06:06,801 INFO 4596 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 44633203ms at 2020-08-13 04:30:00.004
+2020-08-12 16:06:06,801 INFO 4596 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 28433199ms at 2020-08-13 00:00:00.000
+2020-08-12 16:06:06,802 INFO 4596 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 28434198ms at 2020-08-13 00:00:01.000
+2020-08-12 16:06:08,098 INFO 4240 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 16:06:08,098 INFO 4240 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 16:06:08,098 INFO 4240 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 16:06:09,805 INFO 9352 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 16:06:09,805 INFO 9352 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 16:06:09,805 INFO 9352 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 21:04:28,327 INFO 7800 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 21:04:28,327 INFO 7800 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 21:04:28,327 INFO 7800 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 21:04:31,279 INFO 3204 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 21:04:31,279 INFO 3204 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 21:04:31,279 INFO 3204 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-08-12 21:04:31,781 INFO 120 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 26728227ms at 2020-08-13 04:30:00.008
+2020-08-12 21:04:31,781 INFO 120 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 10528219ms at 2020-08-13 00:00:00.000
+2020-08-12 21:04:31,782 INFO 120 [Timer] F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 10529218ms at 2020-08-13 00:00:01.000
+2020-08-12 21:04:32,849 INFO 14724 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-08-12 21:04:32,849 INFO 14724 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-08-12 21:04:32,849 INFO 14724 [egg-schedule]: register schedule F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js

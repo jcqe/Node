@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="./AdmCandy.css">
+    <script type="text/javascript">
+        window.onload = function () {
+            showAllCandys();
+        }
+        //axios的ajax上传
+        function updateCandy() {
+            let name = document.getElementById("name").value;
+            let inf = document.getElementById("inf").value;
+            let file = document.getElementById("choose").files[0];
+            let price = document.getElementById("price").value;
+            let formData = new FormData();
+            formData.append("name", name);
+            formData.append("inf", inf);
+            formData.append("price", price);
+            formData.append("uploadCandyFile", file, file.name);
+            const config = {
+                headers: {
+                    "Content-Type": "multipart/form-data;boundary=" + new Date().getTime()
+                }
+            };
+            axios.post("/uploadCandyFile.do", formData, config)
+                .then(r => {
+                    document.getElementsByClassName("newImg")[0].src = r.data;
+                    console.log(r.data);
+                    showAllCandys();
+                }).catch(e => {
+                    console.log(e);
+                })
+        }
+    </script>
+    <script>
+        function showAllCandys() {
+            axios.get("/showAllCandys.do", {
+
+            }).then(r => {
+                document.getElementsByClassName("showDiv")[0].innerHTML="";
+                let list = r.data;
+                for (let i = 0; i < list.length; i++) {
+                    // document.getElementsByClassName("updPr")[0].innerHTML="";
+                    let candys = list[i];
+                    let div = document.createElement("div");
+                    div.classList.add("item");
+
+                    let img = document.createElement("img");
+                    img.src = candys.url;//
+
+                    let div1 = document.createElement("div");
+                    div1.setAttribute("class", "updP")//名称
+                    div1.setAttribute("uid", candys.id);
+                    div1.innerHTML = `${candys.name}`;
+
+                    let div01 = document.createElement("div");
+                    div01.setAttribute("class", "updPr")
+                    div01.setAttribute("uuid", candys.id);
+                    div01.innerHTML = `￥${candys.price}`;
+
+                    let div2 = document.createElement("div");
+                    div2.setAttribute("class", "updIf")
+                    div2.setAttribute("uuuid", candys.id);
+                    div2.innerHTML = candys.inf;
+
+                    let button = document.createElement("button");
+                    button.innerHTML = "修改";
+                    button.setAttribute("class", "updNP");
+
+                    let button1 = document.createElement("button");
+
+                    button1.setAttribute("class", "del");
+                    let a = document.createElement("a");
+                    a.href = `javascript:delByCandyId(${candys.id})`;
+                    a.innerHTML = "删除";
+
+                    let showDiv = document.querySelector(".showDiv");
+                    showDiv.appendChild(div);
+                    div.appendChild(img);
+                    div.appendChild(div1);
+                    div.appendChild(div01)
+
+                    div.appendChild(div2);
+                    div.appendChild(button);
+                    div.appendChild(button1);
+                    button1.appendChild(a);
+
+                }
+                let updNPs = document.getElementsByClassName("updNP");
+                let updPs = document.getElementsByClassName("updP");//名称
+                let updPrs = document.getElementsByClassName("updPr");//价格
+                let updIfs = document.getElementsByClassName("updIf");//信息
+                // console.log(updNPs);
+                // console.log(updPs);
+                // console.log(updPrs);
+                // console.log(updIfs);
+                for (let i = 0; i < updNPs.length; i++) {
+                    for (let j = 0; j < updPs.length; j++) {
+                        updNPs[i].addEventListener('click', function () {
+                            updPs[j].setAttribute("contenteditable", true);
+                            updPs[j].style.borderColor = "#fafafa";
+                        });
+
+                        updPs[j].addEventListener('blur', function () {
+                            
+                            this.setAttribute("contenteditable", false);
+                            // console.log(this);
+                            let candysId = this.getAttribute("uid");
+                            // console.log(candysId);
+                            let newname = this.innerHTML;
+                            // console.log(newname);
+
+                            let newprice = this.nextSibling.innerHTML;
+                            // console.log(newprice);
+                            
+                            axios.post("/updateCandys.do", {
+                                id: candysId,
+                                newname: newname,
+                                newprice: newprice
+                            }).then(res => {
+                                // alert(r.data);
+                            }).catch(err => {
+                                console.log(err);
+                            })
+
+                        })
+
+                    }
+                    for (let j = 0; j < updPrs.length; j++) {
+                        updNPs[i].addEventListener('click', function () {
+                            updPrs[j].setAttribute("contenteditable", true);
+                            updPrs[j].style.borderColor = "#fafafa";
+                        });
+                        updPrs[j].addEventListener('blur', function () {
+                            this.setAttribute("contenteditable", false);
+                            let candysId = this.getAttribute("uuid");
+                            // console.log(candysId);
+                            let newname = this.previousSibling.innerHTML;
+                            // console.log(newname)
+                            let newprice = this.innerHTML;
+                            // console.log(newprice);
+                            axios.post("/updateCandys.do", {
+                                id: candysId,
+                                newname: newname,
+                                newprice: newprice
+                            }).then(res => {
+                                // alert(r.data);
+                            }).catch(err => {
+                                console.log(err);
+                            })
+
+                        })
+                    }
+
+                }
+            }).catch(e => {
+
+            })
+
+        }
+        contenteditable = "true";
+        function delByCandyId(id) {
+            axios.get("/delByCandyId.do", {
+                params: {
+                    id: id
+                }
+            }).then(res => {
+                // console.log(res.data);
+                if (res.data == 1) {//成功删除
+                    console.log(1111);
+                    showAllCandys();
+                } else {
+
+                }
+
+            }).catch(err => {
+                console.log(err);
+            })
+        }
+    </script>
+    <script>
+        function showCandy() {
+            document.getElementById("updateDivCandy").style.display = "block";
+        }
+    </script>
+</head>
+
+<body>
+    <div class="wp">
+        <div onclick="showCandy()" class="add">增加</div>
+        <div id="updateDivCandy">
+            商品名字:<input type="text" id="name" /> <br />
+            商品图片:<input type="file" id="choose" /><br />
+            商品介绍:<input type="text" id="inf" /><br />
+            商品价格：<input type="number" id="price"><br>
+            <button onclick="updateCandy()">上传商品</button>
+            <img class="newImg" />
+        </div>
+        <div class="showDiv">
+
+        </div>
+    </div>
+</body>
+
+</html>

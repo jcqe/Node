@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(./img/loginbcg.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size:cover;
+   background-attachment:fixed;
+}
+div{
+    box-sizing: border-box;
+}
+.wp{
+    width: 334px;
+    height: 460px;
+    padding: 0px 38px;
+    margin: 50px auto 0;
+    background-color: #ffffff;
+    border: 1px solid #aaa;
+    border-radius: 8px;
+   
+}
+.title{
+    font-weight: 600;
+    font-size: 20px;
+    padding-top:  72px;
+    padding-bottom: 35px;
+}
+.title span{
+    font-size: 14px;
+    font-weight: normal;
+    color: #ccc;
+    padding: 20px;
+}
+.input input{
+    width: 250px;
+    height: 40px;
+    margin-bottom: 25px;
+    background-color: #F4F0F0;
+}
+.loginy{
+    padding-bottom: 45px;
+}
+.loginy .left{
+    float: left;
+    color: #ccc;
+    font-size: 14px;
+   
+}
+.loginy .right{
+    float: right;
+   
+
+}
+.bottom{
+    width: 250px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#inf{
+    color: red;
+}

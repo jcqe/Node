@@ -1,0 +1,155 @@
+2020-08-10 10:18:17,400 ERROR 11152 [-/::1/-/200ms POST /login.do] nodejs.TypeError: Cannot read property 'login' of undefined
+    at UserController.login (F:\H\Node.js\eggs\eggs\snackshop1\app\controller\userController.js:7:55)
+    at Object.callFn (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-core@4.17.6@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-core@4.17.6@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 11152
+hostname: DESKTOP-U2ENI74
+
+2020-08-10 10:22:01,939 ERROR 10844 [-/::1/-/17ms POST /login.do] nodejs.TypeError: Cannot read property 'login' of undefined
+    at UserController.login (F:\H\Node.js\eggs\eggs\snackshop1\app\controller\userController.js:7:55)
+    at Object.callFn (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-core@4.17.6@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-core@4.17.6@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 10844
+hostname: DESKTOP-U2ENI74
+
+2020-08-10 10:25:31,921 ERROR 10844 [-/::1/-/2ms POST /login.do] nodejs.TypeError: Cannot read property 'login' of undefined
+    at UserController.login (F:\H\Node.js\eggs\eggs\snackshop1\app\controller\userController.js:7:55)
+    at Object.callFn (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-core@4.17.6@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-core@4.17.6@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 10844
+hostname: DESKTOP-U2ENI74
+
+2020-08-10 10:27:42,581 ERROR 8424 [-/::1/-/17ms POST /login.do] nodejs.TypeError: Cannot read property 'login' of undefined
+    at UserController.login (F:\H\Node.js\eggs\eggs\snackshop1\app\controller\userController.js:7:55)
+    at Object.callFn (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-core@4.17.6@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-core@4.17.6@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 8424
+hostname: DESKTOP-U2ENI74
+
+2020-08-10 10:35:39,391 ERROR 8396 [-/::1/-/15ms POST /login.do] nodejs.TypeError: Cannot read property 'login' of undefined
+    at UserController.login (F:\H\Node.js\eggs\eggs\snackshop1\app\controller\userController.js:7:55)
+    at Object.callFn (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-core@4.17.6@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-core@4.17.6@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 8396
+hostname: DESKTOP-U2ENI74
+
+2020-08-10 10:37:16,357 ERROR 8396 [-/::1/-/1ms POST /login.do] nodejs.TypeError: Cannot read property 'login' of undefined
+    at UserController.login (F:\H\Node.js\eggs\eggs\snackshop1\app\controller\userController.js:7:55)
+    at Object.callFn (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-core@4.17.6@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_egg-core@4.17.6@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 8396
+hostname: DESKTOP-U2ENI74
+
+2020-08-10 16:16:24,868 ERROR 8248 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8248
+hostname: DESKTOP-U2ENI74
+
+2020-08-10 16:23:31,109 ERROR 11124 nodejs.ClusterClientNoResponseError: client no response in 67038ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 11124
+hostname: DESKTOP-U2ENI74
+
+2020-08-10 18:25:31,592 ERROR 12524 nodejs.ClusterClientNoResponseError: client no response in 820425ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 12524
+hostname: DESKTOP-U2ENI74
+
+2020-08-10 19:45:17,104 ERROR 4336 [-/::1/-/2ms GET /public/upload/1597059662297Mints.jpg] nodejs.ENOENTError: ENOENT: no such file or directory, stat 'F:\H\Node.js\eggs\eggs\snackshop1\app\public\upload\1597059662297Mints.jpg'
+ENOENTError: ENOENT: no such file or directory, stat 'F:\H\Node.js\eggs\eggs\snackshop1\app\public\upload\1597059662297Mints.jpg'
+errno: -4058
+code: "ENOENT"
+syscall: "stat"
+path: "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\app\\public\\upload\\1597059662297Mints.jpg"
+name: "ENOENTError"
+pid: 4336
+hostname: DESKTOP-U2ENI74
+
+2020-08-10 19:45:53,924 ERROR 4336 [-/::1/-/3ms GET /public/upload/1597059662297Mints.jpg] nodejs.ENOENTError: ENOENT: no such file or directory, stat 'F:\H\Node.js\eggs\eggs\snackshop1\app\public\upload\1597059662297Mints.jpg'
+ENOENTError: ENOENT: no such file or directory, stat 'F:\H\Node.js\eggs\eggs\snackshop1\app\public\upload\1597059662297Mints.jpg'
+errno: -4058
+code: "ENOENT"
+syscall: "stat"
+path: "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\app\\public\\upload\\1597059662297Mints.jpg"
+name: "ENOENTError"
+pid: 4336
+hostname: DESKTOP-U2ENI74
+
+2020-08-10 19:45:54,540 ERROR 4336 [-/::1/-/2ms GET /public/upload/1597059662297Mints.jpg] nodejs.ENOENTError: ENOENT: no such file or directory, stat 'F:\H\Node.js\eggs\eggs\snackshop1\app\public\upload\1597059662297Mints.jpg'
+ENOENTError: ENOENT: no such file or directory, stat 'F:\H\Node.js\eggs\eggs\snackshop1\app\public\upload\1597059662297Mints.jpg'
+errno: -4058
+code: "ENOENT"
+syscall: "stat"
+path: "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\app\\public\\upload\\1597059662297Mints.jpg"
+name: "ENOENTError"
+pid: 4336
+hostname: DESKTOP-U2ENI74
+
+2020-08-10 19:46:54,745 ERROR 4336 [-/::1/-/3ms GET /public/upload/1597059662297Mints.jpg] nodejs.ENOENTError: ENOENT: no such file or directory, stat 'F:\H\Node.js\eggs\eggs\snackshop1\app\public\upload\1597059662297Mints.jpg'
+ENOENTError: ENOENT: no such file or directory, stat 'F:\H\Node.js\eggs\eggs\snackshop1\app\public\upload\1597059662297Mints.jpg'
+errno: -4058
+code: "ENOENT"
+syscall: "stat"
+path: "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\app\\public\\upload\\1597059662297Mints.jpg"
+name: "ENOENTError"
+pid: 4336
+hostname: DESKTOP-U2ENI74
+

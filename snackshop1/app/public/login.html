@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>登录界面</title>
+    <link rel="stylesheet" href="./login.css">
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script>
+        function login() {
+            let num = document.getElementById("num").value;
+            let pwd = document.getElementById("pwd").value;
+            axios.post("http://localhost:7001/login.do", {
+                num: num,
+                pwd: pwd
+            }).then(res => {
+                let list = res.data;
+                if (list.length == 1) {
+                    document.cookie = "num=" + list[0].num;
+                    location.href = "http://localhost:7001/public/Homepage.html";
+                } else {
+                    let inf = document.getElementById("inf");
+                    inf.innerHTML = "请注册账号，再重新登录哦";
+                }
+
+            }).catch(err => {
+
+            });
+        }
+    </script>
+    <script>
+        function registered() {
+            let num = document.getElementById("num").value;
+            let pwd = document.getElementById("pwd").value;
+            axios.post("/registered.do", {
+                num: num,
+                pwd: pwd
+            }).then(res => {
+                let list = res.data;
+                console.log(list);
+
+            }).catch(err => {
+
+            });
+            let inf = document.getElementById("inf");
+            inf.innerHTML = " ";
+            login();
+        }
+    </script>
+</head>
+
+<body>
+    <div class="wp">
+        <div class="title">登录界面 <span>User login </span></div>
+        <div class="input">
+            <input type="text" id="num" placeholder="请输入账号" >
+            <input type="password" id="pwd" placeholder="请输入密码">
+        </div>
+        <div id="inf"></div>
+        <div class="loginy">
+            <div class="left">
+                <input type="checkbox" id="login1"><label for="login1">30天内自动登录</label>
+            </div>
+            <div class="right"><a href="#">忘记密码？</a></div>
+
+        </div>
+        <div class="bottom" onclick="login()">登录</div>
+        <div class="bottom" onclick="registered()">注册</div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,1678 @@
+2020-08-11 00:00:01,360 INFO 10892 [egg-logrotator] app logger reload: got log-reload message
+2020-08-11 00:00:51,299 INFO 11820 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 00:00:51,478 INFO 11820 [egg-multipart] file mode enable
+2020-08-11 00:00:51,478 INFO 11820 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 00:00:51,479 INFO 11820 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 00:00:51,918 INFO 11820 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 00:00:51,924 INFO 11820 [egg-security] use methodnoallow middleware
+2020-08-11 00:00:51,925 INFO 11820 [egg-security] use noopen middleware
+2020-08-11 00:00:51,926 INFO 11820 [egg-security] use nosniff middleware
+2020-08-11 00:00:51,927 INFO 11820 [egg-security] use xssProtection middleware
+2020-08-11 00:00:51,928 INFO 11820 [egg-security] use xframe middleware
+2020-08-11 00:00:51,929 INFO 11820 [egg-security] use dta middleware
+2020-08-11 00:00:51,929 INFO 11820 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 00:00:52,004 INFO 11820 [egg:core] dump config after load, 42ms
+2020-08-11 00:00:52,046 INFO 11820 [egg-watcher:application] watcher start success
+2020-08-11 00:00:52,091 INFO 11820 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 00:00:52 GMT+0800 (GMT+08:00)
+2020-08-11 00:00:52,157 INFO 11820 [egg:core] dump config after ready, 60ms
+2020-08-11 00:01:03,255 INFO 3384 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 00:01:03,322 INFO 3384 [egg-multipart] file mode enable
+2020-08-11 00:01:03,322 INFO 3384 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 00:01:03,322 INFO 3384 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 00:01:03,661 INFO 3384 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 00:01:03,670 INFO 3384 [egg-security] use methodnoallow middleware
+2020-08-11 00:01:03,672 INFO 3384 [egg-security] use noopen middleware
+2020-08-11 00:01:03,675 INFO 3384 [egg-security] use nosniff middleware
+2020-08-11 00:01:03,676 INFO 3384 [egg-security] use xssProtection middleware
+2020-08-11 00:01:03,678 INFO 3384 [egg-security] use xframe middleware
+2020-08-11 00:01:03,680 INFO 3384 [egg-security] use dta middleware
+2020-08-11 00:01:03,680 INFO 3384 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 00:01:03,743 INFO 3384 [egg:core] dump config after load, 43ms
+2020-08-11 00:01:03,805 INFO 3384 [egg-watcher:application] watcher start success
+2020-08-11 00:01:03,811 INFO 3384 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 00:01:03 GMT+0800 (GMT+08:00)
+2020-08-11 00:01:03,921 INFO 3384 [egg:core] dump config after ready, 106ms
+2020-08-11 00:04:28,831 INFO 14580 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 00:04:28,899 INFO 14580 [egg-multipart] file mode enable
+2020-08-11 00:04:28,899 INFO 14580 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 00:04:28,900 INFO 14580 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 00:04:29,231 INFO 14580 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 00:04:29,237 INFO 14580 [egg-security] use methodnoallow middleware
+2020-08-11 00:04:29,239 INFO 14580 [egg-security] use noopen middleware
+2020-08-11 00:04:29,242 INFO 14580 [egg-security] use nosniff middleware
+2020-08-11 00:04:29,243 INFO 14580 [egg-security] use xssProtection middleware
+2020-08-11 00:04:29,245 INFO 14580 [egg-security] use xframe middleware
+2020-08-11 00:04:29,246 INFO 14580 [egg-security] use dta middleware
+2020-08-11 00:04:29,246 INFO 14580 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 00:04:29,373 INFO 14580 [egg:core] dump config after load, 86ms
+2020-08-11 00:04:29,423 INFO 14580 [egg-watcher:application] watcher start success
+2020-08-11 00:04:29,437 INFO 14580 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 00:04:29 GMT+0800 (GMT+08:00)
+2020-08-11 00:04:29,492 INFO 14580 [egg:core] dump config after ready, 50ms
+2020-08-11 00:05:09,949 INFO 15272 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 00:05:09,997 INFO 15272 [egg-multipart] file mode enable
+2020-08-11 00:05:09,998 INFO 15272 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 00:05:09,999 INFO 15272 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 00:05:10,306 INFO 15272 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 00:05:10,313 INFO 15272 [egg-security] use methodnoallow middleware
+2020-08-11 00:05:10,314 INFO 15272 [egg-security] use noopen middleware
+2020-08-11 00:05:10,317 INFO 15272 [egg-security] use nosniff middleware
+2020-08-11 00:05:10,318 INFO 15272 [egg-security] use xssProtection middleware
+2020-08-11 00:05:10,320 INFO 15272 [egg-security] use xframe middleware
+2020-08-11 00:05:10,321 INFO 15272 [egg-security] use dta middleware
+2020-08-11 00:05:10,321 INFO 15272 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 00:05:10,389 INFO 15272 [egg:core] dump config after load, 44ms
+2020-08-11 00:05:10,443 INFO 15272 [egg-watcher:application] watcher start success
+2020-08-11 00:05:10,449 INFO 15272 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 00:05:10 GMT+0800 (GMT+08:00)
+2020-08-11 00:05:10,507 INFO 15272 [egg:core] dump config after ready, 54ms
+2020-08-11 00:05:37,858 INFO 14896 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 00:05:37,912 INFO 14896 [egg-multipart] file mode enable
+2020-08-11 00:05:37,912 INFO 14896 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 00:05:37,914 INFO 14896 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 00:05:38,212 INFO 14896 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 00:05:38,220 INFO 14896 [egg-security] use methodnoallow middleware
+2020-08-11 00:05:38,222 INFO 14896 [egg-security] use noopen middleware
+2020-08-11 00:05:38,227 INFO 14896 [egg-security] use nosniff middleware
+2020-08-11 00:05:38,229 INFO 14896 [egg-security] use xssProtection middleware
+2020-08-11 00:05:38,230 INFO 14896 [egg-security] use xframe middleware
+2020-08-11 00:05:38,231 INFO 14896 [egg-security] use dta middleware
+2020-08-11 00:05:38,231 INFO 14896 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 00:05:38,306 INFO 14896 [egg:core] dump config after load, 58ms
+2020-08-11 00:05:38,358 INFO 14896 [egg-watcher:application] watcher start success
+2020-08-11 00:05:38,372 INFO 14896 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 00:05:38 GMT+0800 (GMT+08:00)
+2020-08-11 00:05:38,435 INFO 14896 [egg:core] dump config after ready, 58ms
+2020-08-11 00:12:54,113 INFO 11056 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 00:12:54,144 INFO 11056 [egg-multipart] file mode enable
+2020-08-11 00:12:54,144 INFO 11056 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 00:12:54,145 INFO 11056 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 00:12:54,290 INFO 11056 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 00:12:54,293 INFO 11056 [egg-security] use methodnoallow middleware
+2020-08-11 00:12:54,293 INFO 11056 [egg-security] use noopen middleware
+2020-08-11 00:12:54,295 INFO 11056 [egg-security] use nosniff middleware
+2020-08-11 00:12:54,295 INFO 11056 [egg-security] use xssProtection middleware
+2020-08-11 00:12:54,296 INFO 11056 [egg-security] use xframe middleware
+2020-08-11 00:12:54,296 INFO 11056 [egg-security] use dta middleware
+2020-08-11 00:12:54,296 INFO 11056 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 00:12:54,334 INFO 11056 [egg:core] dump config after load, 30ms
+2020-08-11 00:12:54,367 INFO 11056 [egg-watcher:application] watcher start success
+2020-08-11 00:12:54,373 INFO 11056 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 00:12:54 GMT+0800 (GMT+08:00)
+2020-08-11 00:12:54,412 INFO 11056 [egg:core] dump config after ready, 36ms
+2020-08-11 00:30:09,956 INFO 12184 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 00:30:09,993 INFO 12184 [egg-multipart] file mode enable
+2020-08-11 00:30:09,993 INFO 12184 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 00:30:09,993 INFO 12184 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 00:30:10,155 INFO 12184 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 00:30:10,158 INFO 12184 [egg-security] use methodnoallow middleware
+2020-08-11 00:30:10,159 INFO 12184 [egg-security] use noopen middleware
+2020-08-11 00:30:10,160 INFO 12184 [egg-security] use nosniff middleware
+2020-08-11 00:30:10,160 INFO 12184 [egg-security] use xssProtection middleware
+2020-08-11 00:30:10,161 INFO 12184 [egg-security] use xframe middleware
+2020-08-11 00:30:10,162 INFO 12184 [egg-security] use dta middleware
+2020-08-11 00:30:10,162 INFO 12184 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 00:30:10,200 INFO 12184 [egg:core] dump config after load, 23ms
+2020-08-11 00:30:10,231 INFO 12184 [egg-watcher:application] watcher start success
+2020-08-11 00:30:10,234 INFO 12184 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 00:30:10 GMT+0800 (GMT+08:00)
+2020-08-11 00:30:10,266 INFO 12184 [egg:core] dump config after ready, 29ms
+2020-08-11 00:30:41,061 INFO 8424 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 00:30:41,094 INFO 8424 [egg-multipart] file mode enable
+2020-08-11 00:30:41,094 INFO 8424 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 00:30:41,095 INFO 8424 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 00:30:41,276 INFO 8424 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 00:30:41,279 INFO 8424 [egg-security] use methodnoallow middleware
+2020-08-11 00:30:41,280 INFO 8424 [egg-security] use noopen middleware
+2020-08-11 00:30:41,281 INFO 8424 [egg-security] use nosniff middleware
+2020-08-11 00:30:41,281 INFO 8424 [egg-security] use xssProtection middleware
+2020-08-11 00:30:41,282 INFO 8424 [egg-security] use xframe middleware
+2020-08-11 00:30:41,283 INFO 8424 [egg-security] use dta middleware
+2020-08-11 00:30:41,283 INFO 8424 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 00:30:41,312 INFO 8424 [egg:core] dump config after load, 21ms
+2020-08-11 00:30:41,336 INFO 8424 [egg-watcher:application] watcher start success
+2020-08-11 00:30:41,343 INFO 8424 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 00:30:41 GMT+0800 (GMT+08:00)
+2020-08-11 00:30:41,378 INFO 8424 [egg:core] dump config after ready, 32ms
+2020-08-11 00:34:10,086 INFO 13744 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 00:34:10,122 INFO 13744 [egg-multipart] file mode enable
+2020-08-11 00:34:10,122 INFO 13744 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 00:34:10,123 INFO 13744 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 00:34:10,288 INFO 13744 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 00:34:10,292 INFO 13744 [egg-security] use methodnoallow middleware
+2020-08-11 00:34:10,293 INFO 13744 [egg-security] use noopen middleware
+2020-08-11 00:34:10,294 INFO 13744 [egg-security] use nosniff middleware
+2020-08-11 00:34:10,295 INFO 13744 [egg-security] use xssProtection middleware
+2020-08-11 00:34:10,295 INFO 13744 [egg-security] use xframe middleware
+2020-08-11 00:34:10,296 INFO 13744 [egg-security] use dta middleware
+2020-08-11 00:34:10,296 INFO 13744 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 00:34:10,333 INFO 13744 [egg:core] dump config after load, 20ms
+2020-08-11 00:34:10,350 INFO 13744 [egg-watcher:application] watcher start success
+2020-08-11 00:34:10,357 INFO 13744 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 00:34:10 GMT+0800 (GMT+08:00)
+2020-08-11 00:34:10,390 INFO 13744 [egg:core] dump config after ready, 28ms
+2020-08-11 00:35:50,616 INFO 14176 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 00:35:50,662 INFO 14176 [egg-multipart] file mode enable
+2020-08-11 00:35:50,662 INFO 14176 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 00:35:50,665 INFO 14176 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 00:35:50,895 INFO 14176 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 00:35:50,897 INFO 14176 [egg-security] use methodnoallow middleware
+2020-08-11 00:35:50,898 INFO 14176 [egg-security] use noopen middleware
+2020-08-11 00:35:50,899 INFO 14176 [egg-security] use nosniff middleware
+2020-08-11 00:35:50,900 INFO 14176 [egg-security] use xssProtection middleware
+2020-08-11 00:35:50,901 INFO 14176 [egg-security] use xframe middleware
+2020-08-11 00:35:50,901 INFO 14176 [egg-security] use dta middleware
+2020-08-11 00:35:50,901 INFO 14176 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 00:35:50,946 INFO 14176 [egg:core] dump config after load, 31ms
+2020-08-11 00:35:50,980 INFO 14176 [egg-watcher:application] watcher start success
+2020-08-11 00:35:50,982 INFO 14176 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 00:35:50 GMT+0800 (GMT+08:00)
+2020-08-11 00:35:51,024 INFO 14176 [egg:core] dump config after ready, 40ms
+2020-08-11 00:37:16,824 INFO 15248 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 00:37:16,858 INFO 15248 [egg-multipart] file mode enable
+2020-08-11 00:37:16,858 INFO 15248 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 00:37:16,858 INFO 15248 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 00:37:17,015 INFO 15248 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 00:37:17,019 INFO 15248 [egg-security] use methodnoallow middleware
+2020-08-11 00:37:17,019 INFO 15248 [egg-security] use noopen middleware
+2020-08-11 00:37:17,021 INFO 15248 [egg-security] use nosniff middleware
+2020-08-11 00:37:17,021 INFO 15248 [egg-security] use xssProtection middleware
+2020-08-11 00:37:17,022 INFO 15248 [egg-security] use xframe middleware
+2020-08-11 00:37:17,022 INFO 15248 [egg-security] use dta middleware
+2020-08-11 00:37:17,022 INFO 15248 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 00:37:17,299 INFO 15248 [egg:core] dump config after load, 20ms
+2020-08-11 00:37:17,322 INFO 15248 [egg-watcher:application] watcher start success
+2020-08-11 00:37:17,332 INFO 15248 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 00:37:17 GMT+0800 (GMT+08:00)
+2020-08-11 00:37:17,364 INFO 15248 [egg:core] dump config after ready, 29ms
+2020-08-11 00:37:39,404 INFO 3736 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 00:37:39,446 INFO 3736 [egg-multipart] file mode enable
+2020-08-11 00:37:39,446 INFO 3736 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 00:37:39,446 INFO 3736 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 00:37:39,766 INFO 3736 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 00:37:39,769 INFO 3736 [egg-security] use methodnoallow middleware
+2020-08-11 00:37:39,770 INFO 3736 [egg-security] use noopen middleware
+2020-08-11 00:37:39,771 INFO 3736 [egg-security] use nosniff middleware
+2020-08-11 00:37:39,772 INFO 3736 [egg-security] use xssProtection middleware
+2020-08-11 00:37:39,772 INFO 3736 [egg-security] use xframe middleware
+2020-08-11 00:37:39,773 INFO 3736 [egg-security] use dta middleware
+2020-08-11 00:37:39,773 INFO 3736 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 00:37:39,801 INFO 3736 [egg:core] dump config after load, 21ms
+2020-08-11 00:37:39,824 INFO 3736 [egg-watcher:application] watcher start success
+2020-08-11 00:37:39,831 INFO 3736 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 00:37:39 GMT+0800 (GMT+08:00)
+2020-08-11 00:37:39,878 INFO 3736 [egg:core] dump config after ready, 43ms
+2020-08-11 00:40:41,485 INFO 8416 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 00:40:41,523 INFO 8416 [egg-multipart] file mode enable
+2020-08-11 00:40:41,523 INFO 8416 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 00:40:41,523 INFO 8416 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 00:40:41,694 INFO 8416 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 00:40:41,697 INFO 8416 [egg-security] use methodnoallow middleware
+2020-08-11 00:40:41,697 INFO 8416 [egg-security] use noopen middleware
+2020-08-11 00:40:41,699 INFO 8416 [egg-security] use nosniff middleware
+2020-08-11 00:40:41,699 INFO 8416 [egg-security] use xssProtection middleware
+2020-08-11 00:40:41,700 INFO 8416 [egg-security] use xframe middleware
+2020-08-11 00:40:41,700 INFO 8416 [egg-security] use dta middleware
+2020-08-11 00:40:41,701 INFO 8416 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 00:40:41,730 INFO 8416 [egg:core] dump config after load, 22ms
+2020-08-11 00:40:41,751 INFO 8416 [egg-watcher:application] watcher start success
+2020-08-11 00:40:41,778 INFO 8416 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 00:40:41 GMT+0800 (GMT+08:00)
+2020-08-11 00:40:41,826 INFO 8416 [egg:core] dump config after ready, 46ms
+2020-08-11 01:11:20,368 INFO 2564 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:11:20,404 INFO 2564 [egg-multipart] file mode enable
+2020-08-11 01:11:20,404 INFO 2564 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:11:20,405 INFO 2564 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:11:20,554 INFO 2564 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:11:20,557 INFO 2564 [egg-security] use methodnoallow middleware
+2020-08-11 01:11:20,558 INFO 2564 [egg-security] use noopen middleware
+2020-08-11 01:11:20,559 INFO 2564 [egg-security] use nosniff middleware
+2020-08-11 01:11:20,559 INFO 2564 [egg-security] use xssProtection middleware
+2020-08-11 01:11:20,560 INFO 2564 [egg-security] use xframe middleware
+2020-08-11 01:11:20,561 INFO 2564 [egg-security] use dta middleware
+2020-08-11 01:11:20,561 INFO 2564 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:11:20,595 INFO 2564 [egg:core] dump config after load, 22ms
+2020-08-11 01:11:20,619 INFO 2564 [egg-watcher:application] watcher start success
+2020-08-11 01:11:20,625 INFO 2564 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:11:20 GMT+0800 (GMT+08:00)
+2020-08-11 01:11:20,656 INFO 2564 [egg:core] dump config after ready, 28ms
+2020-08-11 01:12:16,802 INFO 3620 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:12:16,835 INFO 3620 [egg-multipart] file mode enable
+2020-08-11 01:12:16,835 INFO 3620 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:12:16,835 INFO 3620 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:12:17,112 INFO 3620 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:12:17,116 INFO 3620 [egg-security] use methodnoallow middleware
+2020-08-11 01:12:17,117 INFO 3620 [egg-security] use noopen middleware
+2020-08-11 01:12:17,118 INFO 3620 [egg-security] use nosniff middleware
+2020-08-11 01:12:17,119 INFO 3620 [egg-security] use xssProtection middleware
+2020-08-11 01:12:17,119 INFO 3620 [egg-security] use xframe middleware
+2020-08-11 01:12:17,120 INFO 3620 [egg-security] use dta middleware
+2020-08-11 01:12:17,120 INFO 3620 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:12:17,166 INFO 3620 [egg:core] dump config after load, 32ms
+2020-08-11 01:12:17,202 INFO 3620 [egg-watcher:application] watcher start success
+2020-08-11 01:12:17,218 INFO 3620 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:12:17 GMT+0800 (GMT+08:00)
+2020-08-11 01:12:17,265 INFO 3620 [egg:core] dump config after ready, 43ms
+2020-08-11 01:18:43,210 INFO 14332 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:18:43,245 INFO 14332 [egg-multipart] file mode enable
+2020-08-11 01:18:43,245 INFO 14332 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:18:43,245 INFO 14332 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:18:43,410 INFO 14332 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:18:43,413 INFO 14332 [egg-security] use methodnoallow middleware
+2020-08-11 01:18:43,413 INFO 14332 [egg-security] use noopen middleware
+2020-08-11 01:18:43,414 INFO 14332 [egg-security] use nosniff middleware
+2020-08-11 01:18:43,415 INFO 14332 [egg-security] use xssProtection middleware
+2020-08-11 01:18:43,416 INFO 14332 [egg-security] use xframe middleware
+2020-08-11 01:18:43,417 INFO 14332 [egg-security] use dta middleware
+2020-08-11 01:18:43,417 INFO 14332 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:18:43,444 INFO 14332 [egg:core] dump config after load, 20ms
+2020-08-11 01:18:43,468 INFO 14332 [egg-watcher:application] watcher start success
+2020-08-11 01:18:43,472 INFO 14332 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:18:43 GMT+0800 (GMT+08:00)
+2020-08-11 01:18:43,551 INFO 14332 [egg:core] dump config after ready, 77ms
+2020-08-11 01:49:43,559 INFO 12040 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:49:43,594 INFO 12040 [egg-multipart] file mode enable
+2020-08-11 01:49:43,594 INFO 12040 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:49:43,594 INFO 12040 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:49:43,827 INFO 12040 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:49:43,830 INFO 12040 [egg-security] use methodnoallow middleware
+2020-08-11 01:49:43,831 INFO 12040 [egg-security] use noopen middleware
+2020-08-11 01:49:43,833 INFO 12040 [egg-security] use nosniff middleware
+2020-08-11 01:49:43,834 INFO 12040 [egg-security] use xssProtection middleware
+2020-08-11 01:49:43,835 INFO 12040 [egg-security] use xframe middleware
+2020-08-11 01:49:43,837 INFO 12040 [egg-security] use dta middleware
+2020-08-11 01:49:43,837 INFO 12040 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:49:43,876 INFO 12040 [egg:core] dump config after load, 22ms
+2020-08-11 01:49:43,894 INFO 12040 [egg-watcher:application] watcher start success
+2020-08-11 01:49:43,906 INFO 12040 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:49:43 GMT+0800 (GMT+08:00)
+2020-08-11 01:49:43,939 INFO 12040 [egg:core] dump config after ready, 30ms
+2020-08-11 01:49:45,155 INFO 7456 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:49:45,188 INFO 7456 [egg-multipart] file mode enable
+2020-08-11 01:49:45,188 INFO 7456 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:49:45,188 INFO 7456 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:49:45,343 INFO 7456 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:49:45,346 INFO 7456 [egg-security] use methodnoallow middleware
+2020-08-11 01:49:45,346 INFO 7456 [egg-security] use noopen middleware
+2020-08-11 01:49:45,348 INFO 7456 [egg-security] use nosniff middleware
+2020-08-11 01:49:45,348 INFO 7456 [egg-security] use xssProtection middleware
+2020-08-11 01:49:45,349 INFO 7456 [egg-security] use xframe middleware
+2020-08-11 01:49:45,350 INFO 7456 [egg-security] use dta middleware
+2020-08-11 01:49:45,350 INFO 7456 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:49:45,379 INFO 7456 [egg:core] dump config after load, 21ms
+2020-08-11 01:49:45,404 INFO 7456 [egg-watcher:application] watcher start success
+2020-08-11 01:49:45,411 INFO 7456 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:49:45 GMT+0800 (GMT+08:00)
+2020-08-11 01:49:45,445 INFO 7456 [egg:core] dump config after ready, 31ms
+2020-08-11 01:49:46,724 INFO 7288 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:49:46,769 INFO 7288 [egg-multipart] file mode enable
+2020-08-11 01:49:46,769 INFO 7288 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:49:46,769 INFO 7288 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:49:46,938 INFO 7288 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:49:46,940 INFO 7288 [egg-security] use methodnoallow middleware
+2020-08-11 01:49:46,941 INFO 7288 [egg-security] use noopen middleware
+2020-08-11 01:49:46,942 INFO 7288 [egg-security] use nosniff middleware
+2020-08-11 01:49:46,943 INFO 7288 [egg-security] use xssProtection middleware
+2020-08-11 01:49:46,943 INFO 7288 [egg-security] use xframe middleware
+2020-08-11 01:49:46,944 INFO 7288 [egg-security] use dta middleware
+2020-08-11 01:49:46,944 INFO 7288 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:49:46,969 INFO 7288 [egg:core] dump config after load, 18ms
+2020-08-11 01:49:46,993 INFO 7288 [egg-watcher:application] watcher start success
+2020-08-11 01:49:46,998 INFO 7288 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:49:46 GMT+0800 (GMT+08:00)
+2020-08-11 01:49:47,028 INFO 7288 [egg:core] dump config after ready, 28ms
+2020-08-11 01:49:50,592 INFO 14444 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:49:50,628 INFO 14444 [egg-multipart] file mode enable
+2020-08-11 01:49:50,628 INFO 14444 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:49:50,628 INFO 14444 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:49:50,825 INFO 14444 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:49:50,827 INFO 14444 [egg-security] use methodnoallow middleware
+2020-08-11 01:49:50,828 INFO 14444 [egg-security] use noopen middleware
+2020-08-11 01:49:50,830 INFO 14444 [egg-security] use nosniff middleware
+2020-08-11 01:49:50,830 INFO 14444 [egg-security] use xssProtection middleware
+2020-08-11 01:49:50,831 INFO 14444 [egg-security] use xframe middleware
+2020-08-11 01:49:50,831 INFO 14444 [egg-security] use dta middleware
+2020-08-11 01:49:50,832 INFO 14444 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:49:50,915 INFO 14444 [egg:core] dump config after load, 22ms
+2020-08-11 01:49:50,946 INFO 14444 [egg-watcher:application] watcher start success
+2020-08-11 01:49:50,948 INFO 14444 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:49:50 GMT+0800 (GMT+08:00)
+2020-08-11 01:49:50,984 INFO 14444 [egg:core] dump config after ready, 34ms
+2020-08-11 01:49:55,740 INFO 12460 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:49:55,774 INFO 12460 [egg-multipart] file mode enable
+2020-08-11 01:49:55,774 INFO 12460 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:49:55,774 INFO 12460 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:49:55,943 INFO 12460 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:49:55,945 INFO 12460 [egg-security] use methodnoallow middleware
+2020-08-11 01:49:55,946 INFO 12460 [egg-security] use noopen middleware
+2020-08-11 01:49:55,947 INFO 12460 [egg-security] use nosniff middleware
+2020-08-11 01:49:55,948 INFO 12460 [egg-security] use xssProtection middleware
+2020-08-11 01:49:55,949 INFO 12460 [egg-security] use xframe middleware
+2020-08-11 01:49:55,950 INFO 12460 [egg-security] use dta middleware
+2020-08-11 01:49:55,950 INFO 12460 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:49:55,976 INFO 12460 [egg:core] dump config after load, 19ms
+2020-08-11 01:49:55,996 INFO 12460 [egg-watcher:application] watcher start success
+2020-08-11 01:49:56,002 INFO 12460 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:49:55 GMT+0800 (GMT+08:00)
+2020-08-11 01:49:56,035 INFO 12460 [egg:core] dump config after ready, 31ms
+2020-08-11 01:49:59,136 INFO 3848 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:49:59,172 INFO 3848 [egg-multipart] file mode enable
+2020-08-11 01:49:59,172 INFO 3848 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:49:59,173 INFO 3848 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:49:59,348 INFO 3848 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:49:59,352 INFO 3848 [egg-security] use methodnoallow middleware
+2020-08-11 01:49:59,354 INFO 3848 [egg-security] use noopen middleware
+2020-08-11 01:49:59,357 INFO 3848 [egg-security] use nosniff middleware
+2020-08-11 01:49:59,358 INFO 3848 [egg-security] use xssProtection middleware
+2020-08-11 01:49:59,358 INFO 3848 [egg-security] use xframe middleware
+2020-08-11 01:49:59,359 INFO 3848 [egg-security] use dta middleware
+2020-08-11 01:49:59,359 INFO 3848 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:49:59,421 INFO 3848 [egg:core] dump config after load, 53ms
+2020-08-11 01:49:59,441 INFO 3848 [egg-watcher:application] watcher start success
+2020-08-11 01:49:59,452 INFO 3848 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:49:59 GMT+0800 (GMT+08:00)
+2020-08-11 01:49:59,484 INFO 3848 [egg:core] dump config after ready, 30ms
+2020-08-11 01:58:10,824 INFO 14216 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:58:10,861 INFO 14216 [egg-multipart] file mode enable
+2020-08-11 01:58:10,861 INFO 14216 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:58:10,862 INFO 14216 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:58:11,068 INFO 14216 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:58:11,071 INFO 14216 [egg-security] use methodnoallow middleware
+2020-08-11 01:58:11,072 INFO 14216 [egg-security] use noopen middleware
+2020-08-11 01:58:11,073 INFO 14216 [egg-security] use nosniff middleware
+2020-08-11 01:58:11,074 INFO 14216 [egg-security] use xssProtection middleware
+2020-08-11 01:58:11,074 INFO 14216 [egg-security] use xframe middleware
+2020-08-11 01:58:11,075 INFO 14216 [egg-security] use dta middleware
+2020-08-11 01:58:11,075 INFO 14216 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:58:11,118 INFO 14216 [egg:core] dump config after load, 28ms
+2020-08-11 01:58:11,156 INFO 14216 [egg-watcher:application] watcher start success
+2020-08-11 01:58:11,159 INFO 14216 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:58:11 GMT+0800 (GMT+08:00)
+2020-08-11 01:58:11,220 INFO 14216 [egg:core] dump config after ready, 59ms
+2020-08-11 01:58:19,931 INFO 12768 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:58:19,963 INFO 12768 [egg-multipart] file mode enable
+2020-08-11 01:58:19,964 INFO 12768 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:58:19,964 INFO 12768 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:58:20,190 INFO 12768 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:58:20,194 INFO 12768 [egg-security] use methodnoallow middleware
+2020-08-11 01:58:20,195 INFO 12768 [egg-security] use noopen middleware
+2020-08-11 01:58:20,196 INFO 12768 [egg-security] use nosniff middleware
+2020-08-11 01:58:20,196 INFO 12768 [egg-security] use xssProtection middleware
+2020-08-11 01:58:20,197 INFO 12768 [egg-security] use xframe middleware
+2020-08-11 01:58:20,198 INFO 12768 [egg-security] use dta middleware
+2020-08-11 01:58:20,198 INFO 12768 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:58:20,229 INFO 12768 [egg:core] dump config after load, 19ms
+2020-08-11 01:58:20,253 INFO 12768 [egg-watcher:application] watcher start success
+2020-08-11 01:58:20,260 INFO 12768 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:58:20 GMT+0800 (GMT+08:00)
+2020-08-11 01:58:20,293 INFO 12768 [egg:core] dump config after ready, 30ms
+2020-08-11 01:58:26,217 INFO 10272 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:58:26,253 INFO 10272 [egg-multipart] file mode enable
+2020-08-11 01:58:26,253 INFO 10272 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:58:26,253 INFO 10272 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:58:26,429 INFO 10272 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:58:26,435 INFO 10272 [egg-security] use methodnoallow middleware
+2020-08-11 01:58:26,436 INFO 10272 [egg-security] use noopen middleware
+2020-08-11 01:58:26,437 INFO 10272 [egg-security] use nosniff middleware
+2020-08-11 01:58:26,438 INFO 10272 [egg-security] use xssProtection middleware
+2020-08-11 01:58:26,438 INFO 10272 [egg-security] use xframe middleware
+2020-08-11 01:58:26,439 INFO 10272 [egg-security] use dta middleware
+2020-08-11 01:58:26,439 INFO 10272 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:58:26,478 INFO 10272 [egg:core] dump config after load, 23ms
+2020-08-11 01:58:26,511 INFO 10272 [egg-watcher:application] watcher start success
+2020-08-11 01:58:26,515 INFO 10272 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:58:26 GMT+0800 (GMT+08:00)
+2020-08-11 01:58:26,553 INFO 10272 [egg:core] dump config after ready, 35ms
+2020-08-11 01:59:31,206 INFO 13268 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:59:31,237 INFO 13268 [egg-multipart] file mode enable
+2020-08-11 01:59:31,237 INFO 13268 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:59:31,237 INFO 13268 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:59:31,421 INFO 13268 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:59:31,424 INFO 13268 [egg-security] use methodnoallow middleware
+2020-08-11 01:59:31,425 INFO 13268 [egg-security] use noopen middleware
+2020-08-11 01:59:31,426 INFO 13268 [egg-security] use nosniff middleware
+2020-08-11 01:59:31,427 INFO 13268 [egg-security] use xssProtection middleware
+2020-08-11 01:59:31,428 INFO 13268 [egg-security] use xframe middleware
+2020-08-11 01:59:31,428 INFO 13268 [egg-security] use dta middleware
+2020-08-11 01:59:31,428 INFO 13268 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:59:31,454 INFO 13268 [egg:core] dump config after load, 18ms
+2020-08-11 01:59:31,476 INFO 13268 [egg-watcher:application] watcher start success
+2020-08-11 01:59:31,479 INFO 13268 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:59:31 GMT+0800 (GMT+08:00)
+2020-08-11 01:59:31,518 INFO 13268 [egg:core] dump config after ready, 37ms
+2020-08-11 01:59:38,047 INFO 13992 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 01:59:38,081 INFO 13992 [egg-multipart] file mode enable
+2020-08-11 01:59:38,082 INFO 13992 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 01:59:38,082 INFO 13992 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 01:59:38,234 INFO 13992 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 01:59:38,237 INFO 13992 [egg-security] use methodnoallow middleware
+2020-08-11 01:59:38,238 INFO 13992 [egg-security] use noopen middleware
+2020-08-11 01:59:38,240 INFO 13992 [egg-security] use nosniff middleware
+2020-08-11 01:59:38,240 INFO 13992 [egg-security] use xssProtection middleware
+2020-08-11 01:59:38,241 INFO 13992 [egg-security] use xframe middleware
+2020-08-11 01:59:38,241 INFO 13992 [egg-security] use dta middleware
+2020-08-11 01:59:38,241 INFO 13992 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 01:59:38,268 INFO 13992 [egg:core] dump config after load, 20ms
+2020-08-11 01:59:38,290 INFO 13992 [egg-watcher:application] watcher start success
+2020-08-11 01:59:38,298 INFO 13992 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 01:59:38 GMT+0800 (GMT+08:00)
+2020-08-11 01:59:38,336 INFO 13992 [egg:core] dump config after ready, 35ms
+2020-08-11 02:02:18,327 INFO 14268 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 02:02:18,367 INFO 14268 [egg-multipart] file mode enable
+2020-08-11 02:02:18,367 INFO 14268 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 02:02:18,368 INFO 14268 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 02:02:18,643 INFO 14268 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 02:02:18,646 INFO 14268 [egg-security] use methodnoallow middleware
+2020-08-11 02:02:18,647 INFO 14268 [egg-security] use noopen middleware
+2020-08-11 02:02:18,648 INFO 14268 [egg-security] use nosniff middleware
+2020-08-11 02:02:18,648 INFO 14268 [egg-security] use xssProtection middleware
+2020-08-11 02:02:18,649 INFO 14268 [egg-security] use xframe middleware
+2020-08-11 02:02:18,650 INFO 14268 [egg-security] use dta middleware
+2020-08-11 02:02:18,650 INFO 14268 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 02:02:18,681 INFO 14268 [egg:core] dump config after load, 22ms
+2020-08-11 02:02:18,708 INFO 14268 [egg-watcher:application] watcher start success
+2020-08-11 02:02:18,715 INFO 14268 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 02:02:18 GMT+0800 (GMT+08:00)
+2020-08-11 02:02:18,792 INFO 14268 [egg:core] dump config after ready, 75ms
+2020-08-11 09:04:03,269 INFO 1048 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 09:04:03,298 INFO 1048 [egg-multipart] file mode enable
+2020-08-11 09:04:03,298 INFO 1048 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 09:04:03,298 INFO 1048 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 09:04:05,845 INFO 1048 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 09:04:05,856 INFO 1048 [egg-security] use methodnoallow middleware
+2020-08-11 09:04:05,862 INFO 1048 [egg-security] use noopen middleware
+2020-08-11 09:04:05,923 INFO 1048 [egg-security] use nosniff middleware
+2020-08-11 09:04:05,929 INFO 1048 [egg-security] use xssProtection middleware
+2020-08-11 09:04:05,936 INFO 1048 [egg-security] use xframe middleware
+2020-08-11 09:04:05,943 INFO 1048 [egg-security] use dta middleware
+2020-08-11 09:04:05,943 INFO 1048 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 09:04:06,025 INFO 1048 [egg:core] dump config after load, 35ms
+2020-08-11 09:04:06,123 INFO 15216 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 09:04:06,152 INFO 15216 [egg-multipart] file mode enable
+2020-08-11 09:04:06,152 INFO 15216 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 09:04:06,153 INFO 15216 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 09:04:06,300 INFO 15216 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 09:04:06,302 INFO 15216 [egg-security] use methodnoallow middleware
+2020-08-11 09:04:06,303 INFO 15216 [egg-security] use noopen middleware
+2020-08-11 09:04:06,304 INFO 15216 [egg-security] use nosniff middleware
+2020-08-11 09:04:06,305 INFO 15216 [egg-security] use xssProtection middleware
+2020-08-11 09:04:06,305 INFO 15216 [egg-security] use xframe middleware
+2020-08-11 09:04:06,306 INFO 15216 [egg-security] use dta middleware
+2020-08-11 09:04:06,306 INFO 15216 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 09:04:06,330 INFO 15216 [egg:core] dump config after load, 17ms
+2020-08-11 09:04:06,347 INFO 15216 [egg-watcher:application] watcher start success
+2020-08-11 09:04:06,531 INFO 15216 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 09:04:06 GMT+0800 (GMT+08:00)
+2020-08-11 09:04:06,802 INFO 15216 [egg:core] dump config after ready, 259ms
+2020-08-11 09:04:07,855 INFO 6276 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 09:04:07,886 INFO 6276 [egg-multipart] file mode enable
+2020-08-11 09:04:07,886 INFO 6276 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 09:04:07,886 INFO 6276 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 09:04:08,027 INFO 6276 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 09:04:08,030 INFO 6276 [egg-security] use methodnoallow middleware
+2020-08-11 09:04:08,031 INFO 6276 [egg-security] use noopen middleware
+2020-08-11 09:04:08,032 INFO 6276 [egg-security] use nosniff middleware
+2020-08-11 09:04:08,032 INFO 6276 [egg-security] use xssProtection middleware
+2020-08-11 09:04:08,033 INFO 6276 [egg-security] use xframe middleware
+2020-08-11 09:04:08,034 INFO 6276 [egg-security] use dta middleware
+2020-08-11 09:04:08,034 INFO 6276 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 09:04:08,057 INFO 6276 [egg:core] dump config after load, 17ms
+2020-08-11 09:04:08,078 INFO 6276 [egg-watcher:application] watcher start success
+2020-08-11 09:04:08,080 INFO 6276 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 09:04:08 GMT+0800 (GMT+08:00)
+2020-08-11 09:04:08,154 INFO 6276 [egg:core] dump config after ready, 69ms
+2020-08-11 11:26:04,103 INFO 14128 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 11:26:04,220 INFO 14128 [egg-multipart] file mode enable
+2020-08-11 11:26:04,220 INFO 14128 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 11:26:04,220 INFO 14128 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 11:26:06,353 INFO 14128 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 11:26:06,413 INFO 14128 [egg-security] use methodnoallow middleware
+2020-08-11 11:26:06,429 INFO 14128 [egg-security] use noopen middleware
+2020-08-11 11:26:06,454 INFO 14128 [egg-security] use nosniff middleware
+2020-08-11 11:26:06,461 INFO 14128 [egg-security] use xssProtection middleware
+2020-08-11 11:26:06,469 INFO 14128 [egg-security] use xframe middleware
+2020-08-11 11:26:06,476 INFO 14128 [egg-security] use dta middleware
+2020-08-11 11:26:06,476 INFO 14128 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 11:26:06,735 INFO 14128 [egg:core] dump config after load, 148ms
+2020-08-11 11:26:06,899 INFO 14128 [egg-watcher:application] watcher start success
+2020-08-11 11:26:07,007 INFO 14128 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 11:26:06 GMT+0800 (GMT+08:00)
+2020-08-11 11:26:07,070 INFO 14128 [egg:core] dump config after ready, 55ms
+2020-08-11 11:26:08,023 INFO 6188 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 11:26:08,054 INFO 6188 [egg-multipart] file mode enable
+2020-08-11 11:26:08,054 INFO 6188 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 11:26:08,055 INFO 6188 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 11:26:08,198 INFO 6188 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 11:26:08,201 INFO 6188 [egg-security] use methodnoallow middleware
+2020-08-11 11:26:08,202 INFO 6188 [egg-security] use noopen middleware
+2020-08-11 11:26:08,203 INFO 6188 [egg-security] use nosniff middleware
+2020-08-11 11:26:08,204 INFO 6188 [egg-security] use xssProtection middleware
+2020-08-11 11:26:08,204 INFO 6188 [egg-security] use xframe middleware
+2020-08-11 11:26:08,205 INFO 6188 [egg-security] use dta middleware
+2020-08-11 11:26:08,205 INFO 6188 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 11:26:08,229 INFO 6188 [egg:core] dump config after load, 17ms
+2020-08-11 11:26:08,247 INFO 6188 [egg-watcher:application] watcher start success
+2020-08-11 11:26:08,290 INFO 6188 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 11:26:08 GMT+0800 (GMT+08:00)
+2020-08-11 11:26:08,318 INFO 6188 [egg:core] dump config after ready, 26ms
+2020-08-11 13:30:09,173 WARN 6188 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-08-11 13:35:11,795 INFO 4720 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 13:35:11,880 INFO 4720 [egg-multipart] file mode enable
+2020-08-11 13:35:11,880 INFO 4720 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 13:35:11,881 INFO 4720 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 13:35:13,976 INFO 4720 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 13:35:14,028 INFO 4720 [egg-security] use methodnoallow middleware
+2020-08-11 13:35:14,035 INFO 4720 [egg-security] use noopen middleware
+2020-08-11 13:35:14,037 INFO 4720 [egg-security] use nosniff middleware
+2020-08-11 13:35:14,038 INFO 4720 [egg-security] use xssProtection middleware
+2020-08-11 13:35:14,039 INFO 4720 [egg-security] use xframe middleware
+2020-08-11 13:35:14,041 INFO 4720 [egg-security] use dta middleware
+2020-08-11 13:35:14,041 INFO 4720 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 13:35:14,171 INFO 4720 [egg:core] dump config after load, 84ms
+2020-08-11 13:35:14,218 INFO 4720 [egg-watcher:application] watcher start success
+2020-08-11 13:35:15,253 INFO 4720 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 13:35:14 GMT+0800 (GMT+08:00)
+2020-08-11 13:35:14,558 INFO 8020 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 13:35:14,589 INFO 8020 [egg-multipart] file mode enable
+2020-08-11 13:35:14,590 INFO 8020 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 13:35:14,590 INFO 8020 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 13:35:14,811 INFO 8020 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 13:35:14,813 INFO 8020 [egg-security] use methodnoallow middleware
+2020-08-11 13:35:14,814 INFO 8020 [egg-security] use noopen middleware
+2020-08-11 13:35:14,816 INFO 8020 [egg-security] use nosniff middleware
+2020-08-11 13:35:14,816 INFO 8020 [egg-security] use xssProtection middleware
+2020-08-11 13:35:14,817 INFO 8020 [egg-security] use xframe middleware
+2020-08-11 13:35:14,818 INFO 8020 [egg-security] use dta middleware
+2020-08-11 13:35:14,818 INFO 8020 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 13:35:14,843 INFO 8020 [egg:core] dump config after load, 19ms
+2020-08-11 13:35:14,860 INFO 8020 [egg-watcher:application] watcher start success
+2020-08-11 13:35:15,253 INFO 8020 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 13:35:15 GMT+0800 (GMT+08:00)
+2020-08-11 13:35:15,331 INFO 8020 [egg:core] dump config after ready, 68ms
+2020-08-11 13:35:16,391 INFO 15192 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 13:35:16,425 INFO 15192 [egg-multipart] file mode enable
+2020-08-11 13:35:16,425 INFO 15192 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 13:35:16,426 INFO 15192 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 13:35:16,592 INFO 15192 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 13:35:16,595 INFO 15192 [egg-security] use methodnoallow middleware
+2020-08-11 13:35:16,596 INFO 15192 [egg-security] use noopen middleware
+2020-08-11 13:35:16,598 INFO 15192 [egg-security] use nosniff middleware
+2020-08-11 13:35:16,598 INFO 15192 [egg-security] use xssProtection middleware
+2020-08-11 13:35:16,599 INFO 15192 [egg-security] use xframe middleware
+2020-08-11 13:35:16,599 INFO 15192 [egg-security] use dta middleware
+2020-08-11 13:35:16,599 INFO 15192 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 13:35:16,625 INFO 15192 [egg:core] dump config after load, 18ms
+2020-08-11 13:35:16,642 INFO 15192 [egg-watcher:application] watcher start success
+2020-08-11 13:35:16,688 INFO 15192 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 13:35:16 GMT+0800 (GMT+08:00)
+2020-08-11 13:35:16,719 INFO 15192 [egg:core] dump config after ready, 29ms
+2020-08-11 13:39:00,163 INFO 3324 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 13:39:00,194 INFO 3324 [egg-multipart] file mode enable
+2020-08-11 13:39:00,194 INFO 3324 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 13:39:00,194 INFO 3324 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 13:39:00,373 INFO 3324 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 13:39:00,376 INFO 3324 [egg-security] use methodnoallow middleware
+2020-08-11 13:39:00,377 INFO 3324 [egg-security] use noopen middleware
+2020-08-11 13:39:00,378 INFO 3324 [egg-security] use nosniff middleware
+2020-08-11 13:39:00,379 INFO 3324 [egg-security] use xssProtection middleware
+2020-08-11 13:39:00,380 INFO 3324 [egg-security] use xframe middleware
+2020-08-11 13:39:00,380 INFO 3324 [egg-security] use dta middleware
+2020-08-11 13:39:00,380 INFO 3324 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 13:39:00,416 INFO 3324 [egg:core] dump config after load, 23ms
+2020-08-11 13:39:00,444 INFO 3324 [egg-watcher:application] watcher start success
+2020-08-11 13:39:00,471 INFO 3324 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 13:39:00 GMT+0800 (GMT+08:00)
+2020-08-11 13:39:00,508 INFO 3324 [egg:core] dump config after ready, 34ms
+2020-08-11 13:39:10,324 INFO 12556 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 13:39:10,355 INFO 12556 [egg-multipart] file mode enable
+2020-08-11 13:39:10,356 INFO 12556 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 13:39:10,356 INFO 12556 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 13:39:10,740 INFO 12556 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 13:39:10,743 INFO 12556 [egg-security] use methodnoallow middleware
+2020-08-11 13:39:10,743 INFO 12556 [egg-security] use noopen middleware
+2020-08-11 13:39:10,745 INFO 12556 [egg-security] use nosniff middleware
+2020-08-11 13:39:10,746 INFO 12556 [egg-security] use xssProtection middleware
+2020-08-11 13:39:10,747 INFO 12556 [egg-security] use xframe middleware
+2020-08-11 13:39:10,748 INFO 12556 [egg-security] use dta middleware
+2020-08-11 13:39:10,748 INFO 12556 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 13:39:10,775 INFO 12556 [egg:core] dump config after load, 19ms
+2020-08-11 13:39:10,800 INFO 12556 [egg-watcher:application] watcher start success
+2020-08-11 13:39:11,244 INFO 12556 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 13:39:11 GMT+0800 (GMT+08:00)
+2020-08-11 13:39:11,282 INFO 12556 [egg:core] dump config after ready, 33ms
+2020-08-11 13:39:13,812 INFO 14932 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 13:39:13,845 INFO 14932 [egg-multipart] file mode enable
+2020-08-11 13:39:13,846 INFO 14932 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 13:39:13,846 INFO 14932 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 13:39:14,022 INFO 14932 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 13:39:14,024 INFO 14932 [egg-security] use methodnoallow middleware
+2020-08-11 13:39:14,025 INFO 14932 [egg-security] use noopen middleware
+2020-08-11 13:39:14,026 INFO 14932 [egg-security] use nosniff middleware
+2020-08-11 13:39:14,027 INFO 14932 [egg-security] use xssProtection middleware
+2020-08-11 13:39:14,027 INFO 14932 [egg-security] use xframe middleware
+2020-08-11 13:39:14,028 INFO 14932 [egg-security] use dta middleware
+2020-08-11 13:39:14,028 INFO 14932 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 13:39:14,058 INFO 14932 [egg:core] dump config after load, 22ms
+2020-08-11 13:39:14,080 INFO 14932 [egg-watcher:application] watcher start success
+2020-08-11 13:39:14,642 INFO 14932 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 13:39:14 GMT+0800 (GMT+08:00)
+2020-08-11 13:39:14,690 INFO 14932 [egg:core] dump config after ready, 45ms
+2020-08-11 13:42:25,372 INFO 10644 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 13:42:25,402 INFO 10644 [egg-multipart] file mode enable
+2020-08-11 13:42:25,402 INFO 10644 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 13:42:25,402 INFO 10644 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 13:42:25,548 INFO 10644 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 13:42:25,551 INFO 10644 [egg-security] use methodnoallow middleware
+2020-08-11 13:42:25,551 INFO 10644 [egg-security] use noopen middleware
+2020-08-11 13:42:25,553 INFO 10644 [egg-security] use nosniff middleware
+2020-08-11 13:42:25,554 INFO 10644 [egg-security] use xssProtection middleware
+2020-08-11 13:42:25,554 INFO 10644 [egg-security] use xframe middleware
+2020-08-11 13:42:25,555 INFO 10644 [egg-security] use dta middleware
+2020-08-11 13:42:25,555 INFO 10644 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 13:42:25,584 INFO 10644 [egg:core] dump config after load, 21ms
+2020-08-11 13:42:25,603 INFO 10644 [egg-watcher:application] watcher start success
+2020-08-11 13:42:25,633 INFO 10644 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 13:42:25 GMT+0800 (GMT+08:00)
+2020-08-11 13:42:25,661 INFO 10644 [egg:core] dump config after ready, 26ms
+2020-08-11 13:45:21,571 INFO 5856 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 13:45:21,608 INFO 5856 [egg-multipart] file mode enable
+2020-08-11 13:45:21,608 INFO 5856 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 13:45:21,608 INFO 5856 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 13:45:21,853 INFO 5856 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 13:45:21,856 INFO 5856 [egg-security] use methodnoallow middleware
+2020-08-11 13:45:21,857 INFO 5856 [egg-security] use noopen middleware
+2020-08-11 13:45:21,858 INFO 5856 [egg-security] use nosniff middleware
+2020-08-11 13:45:21,859 INFO 5856 [egg-security] use xssProtection middleware
+2020-08-11 13:45:21,860 INFO 5856 [egg-security] use xframe middleware
+2020-08-11 13:45:21,861 INFO 5856 [egg-security] use dta middleware
+2020-08-11 13:45:21,861 INFO 5856 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 13:45:21,894 INFO 5856 [egg:core] dump config after load, 25ms
+2020-08-11 13:45:21,915 INFO 5856 [egg-watcher:application] watcher start success
+2020-08-11 13:45:21,928 INFO 5856 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 13:45:21 GMT+0800 (GMT+08:00)
+2020-08-11 13:45:21,970 INFO 5856 [egg:core] dump config after ready, 40ms
+2020-08-11 14:09:50,916 INFO 9248 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:09:51,007 INFO 9248 [egg-multipart] file mode enable
+2020-08-11 14:09:51,007 INFO 9248 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:09:51,008 INFO 9248 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:09:52,181 INFO 9248 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:09:52,184 INFO 9248 [egg-security] use methodnoallow middleware
+2020-08-11 14:09:52,185 INFO 9248 [egg-security] use noopen middleware
+2020-08-11 14:09:52,186 INFO 9248 [egg-security] use nosniff middleware
+2020-08-11 14:09:52,187 INFO 9248 [egg-security] use xssProtection middleware
+2020-08-11 14:09:52,188 INFO 9248 [egg-security] use xframe middleware
+2020-08-11 14:09:52,189 INFO 9248 [egg-security] use dta middleware
+2020-08-11 14:09:52,189 INFO 9248 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:09:52,354 INFO 9248 [egg:core] dump config after load, 76ms
+2020-08-11 14:09:52,385 INFO 9248 [egg-watcher:application] watcher start success
+2020-08-11 14:09:52,493 INFO 9248 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:09:52 GMT+0800 (GMT+08:00)
+2020-08-11 14:09:52,590 INFO 9248 [egg:core] dump config after ready, 95ms
+2020-08-11 14:10:10,852 INFO 340 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:10:10,884 INFO 340 [egg-multipart] file mode enable
+2020-08-11 14:10:10,884 INFO 340 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:10:10,885 INFO 340 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:10:11,043 INFO 340 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:10:11,046 INFO 340 [egg-security] use methodnoallow middleware
+2020-08-11 14:10:11,048 INFO 340 [egg-security] use noopen middleware
+2020-08-11 14:10:11,049 INFO 340 [egg-security] use nosniff middleware
+2020-08-11 14:10:11,050 INFO 340 [egg-security] use xssProtection middleware
+2020-08-11 14:10:11,051 INFO 340 [egg-security] use xframe middleware
+2020-08-11 14:10:11,052 INFO 340 [egg-security] use dta middleware
+2020-08-11 14:10:11,052 INFO 340 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:10:11,144 INFO 340 [egg:core] dump config after load, 22ms
+2020-08-11 14:10:11,166 INFO 340 [egg-watcher:application] watcher start success
+2020-08-11 14:10:11,180 INFO 340 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:10:11 GMT+0800 (GMT+08:00)
+2020-08-11 14:10:11,257 INFO 340 [egg:core] dump config after ready, 74ms
+2020-08-11 14:15:07,455 INFO 14860 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:15:07,669 INFO 14860 [egg-multipart] file mode enable
+2020-08-11 14:15:07,670 INFO 14860 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:15:07,672 INFO 14860 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:15:12,829 INFO 14860 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:15:12,832 INFO 14860 [egg-security] use methodnoallow middleware
+2020-08-11 14:15:12,833 INFO 14860 [egg-security] use noopen middleware
+2020-08-11 14:15:12,834 INFO 14860 [egg-security] use nosniff middleware
+2020-08-11 14:15:12,835 INFO 14860 [egg-security] use xssProtection middleware
+2020-08-11 14:15:12,836 INFO 14860 [egg-security] use xframe middleware
+2020-08-11 14:15:12,836 INFO 14860 [egg-security] use dta middleware
+2020-08-11 14:15:12,836 INFO 14860 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:15:12,935 INFO 14860 [egg:core] dump config after load, 54ms
+2020-08-11 14:15:12,953 INFO 14860 [egg-watcher:application] watcher start success
+2020-08-11 14:15:12,979 INFO 14860 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:15:12 GMT+0800 (GMT+08:00)
+2020-08-11 14:15:13,011 INFO 14860 [egg:core] dump config after ready, 30ms
+2020-08-11 14:22:46,543 WARN 14860 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-08-11 14:22:46,546 WARN 14860 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-08-11 14:22:48,197 INFO 6232 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:22:48,231 INFO 6232 [egg-multipart] file mode enable
+2020-08-11 14:22:48,231 INFO 6232 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:22:48,231 INFO 6232 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:22:48,416 INFO 6232 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:22:48,419 INFO 6232 [egg-security] use methodnoallow middleware
+2020-08-11 14:22:48,419 INFO 6232 [egg-security] use noopen middleware
+2020-08-11 14:22:48,421 INFO 6232 [egg-security] use nosniff middleware
+2020-08-11 14:22:48,422 INFO 6232 [egg-security] use xssProtection middleware
+2020-08-11 14:22:48,423 INFO 6232 [egg-security] use xframe middleware
+2020-08-11 14:22:48,424 INFO 6232 [egg-security] use dta middleware
+2020-08-11 14:22:48,424 INFO 6232 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:22:48,514 INFO 6232 [egg:core] dump config after load, 84ms
+2020-08-11 14:22:48,539 INFO 6232 [egg-watcher:application] watcher start success
+2020-08-11 14:22:48,543 INFO 6232 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:22:48 GMT+0800 (GMT+08:00)
+2020-08-11 14:22:48,626 INFO 6232 [egg:core] dump config after ready, 76ms
+2020-08-11 14:35:50,627 INFO 6108 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:35:50,672 INFO 6108 [egg-multipart] file mode enable
+2020-08-11 14:35:50,672 INFO 6108 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:35:50,673 INFO 6108 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:35:51,165 INFO 6108 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:35:51,169 INFO 6108 [egg-security] use methodnoallow middleware
+2020-08-11 14:35:51,170 INFO 6108 [egg-security] use noopen middleware
+2020-08-11 14:35:51,172 INFO 6108 [egg-security] use nosniff middleware
+2020-08-11 14:35:51,174 INFO 6108 [egg-security] use xssProtection middleware
+2020-08-11 14:35:51,175 INFO 6108 [egg-security] use xframe middleware
+2020-08-11 14:35:51,176 INFO 6108 [egg-security] use dta middleware
+2020-08-11 14:35:51,176 INFO 6108 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:35:51,206 INFO 6108 [egg:core] dump config after load, 19ms
+2020-08-11 14:35:51,224 INFO 6108 [egg-watcher:application] watcher start success
+2020-08-11 14:35:51,233 INFO 6108 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:35:51 GMT+0800 (GMT+08:00)
+2020-08-11 14:35:51,266 INFO 6108 [egg:core] dump config after ready, 31ms
+2020-08-11 14:35:52,924 INFO 1728 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:35:52,963 INFO 1728 [egg-multipart] file mode enable
+2020-08-11 14:35:52,963 INFO 1728 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:35:52,963 INFO 1728 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:35:53,170 INFO 1728 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:35:53,172 INFO 1728 [egg-security] use methodnoallow middleware
+2020-08-11 14:35:53,173 INFO 1728 [egg-security] use noopen middleware
+2020-08-11 14:35:53,175 INFO 1728 [egg-security] use nosniff middleware
+2020-08-11 14:35:53,176 INFO 1728 [egg-security] use xssProtection middleware
+2020-08-11 14:35:53,177 INFO 1728 [egg-security] use xframe middleware
+2020-08-11 14:35:53,177 INFO 1728 [egg-security] use dta middleware
+2020-08-11 14:35:53,177 INFO 1728 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:35:53,202 INFO 1728 [egg:core] dump config after load, 18ms
+2020-08-11 14:35:53,227 INFO 1728 [egg-watcher:application] watcher start success
+2020-08-11 14:35:53,233 INFO 1728 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:35:53 GMT+0800 (GMT+08:00)
+2020-08-11 14:35:53,304 INFO 1728 [egg:core] dump config after ready, 68ms
+2020-08-11 14:37:12,677 INFO 2684 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:37:12,713 INFO 2684 [egg-multipart] file mode enable
+2020-08-11 14:37:12,713 INFO 2684 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:37:12,714 INFO 2684 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:37:12,887 INFO 2684 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:37:12,893 INFO 2684 [egg-security] use methodnoallow middleware
+2020-08-11 14:37:12,893 INFO 2684 [egg-security] use noopen middleware
+2020-08-11 14:37:12,895 INFO 2684 [egg-security] use nosniff middleware
+2020-08-11 14:37:12,895 INFO 2684 [egg-security] use xssProtection middleware
+2020-08-11 14:37:12,896 INFO 2684 [egg-security] use xframe middleware
+2020-08-11 14:37:12,897 INFO 2684 [egg-security] use dta middleware
+2020-08-11 14:37:12,897 INFO 2684 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:37:12,928 INFO 2684 [egg:core] dump config after load, 22ms
+2020-08-11 14:37:12,963 INFO 2684 [egg-watcher:application] watcher start success
+2020-08-11 14:37:12,966 INFO 2684 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:37:12 GMT+0800 (GMT+08:00)
+2020-08-11 14:37:13,005 INFO 2684 [egg:core] dump config after ready, 37ms
+2020-08-11 14:37:14,350 INFO 9844 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:37:14,389 INFO 9844 [egg-multipart] file mode enable
+2020-08-11 14:37:14,389 INFO 9844 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:37:14,390 INFO 9844 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:37:14,620 INFO 9844 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:37:14,625 INFO 9844 [egg-security] use methodnoallow middleware
+2020-08-11 14:37:14,626 INFO 9844 [egg-security] use noopen middleware
+2020-08-11 14:37:14,627 INFO 9844 [egg-security] use nosniff middleware
+2020-08-11 14:37:14,627 INFO 9844 [egg-security] use xssProtection middleware
+2020-08-11 14:37:14,628 INFO 9844 [egg-security] use xframe middleware
+2020-08-11 14:37:14,629 INFO 9844 [egg-security] use dta middleware
+2020-08-11 14:37:14,629 INFO 9844 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:37:14,675 INFO 9844 [egg:core] dump config after load, 36ms
+2020-08-11 14:37:14,698 INFO 9844 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:37:14 GMT+0800 (GMT+08:00)
+2020-08-11 14:37:14,704 INFO 9844 [egg-watcher:application] watcher start success
+2020-08-11 14:37:14,797 INFO 9844 [egg:core] dump config after ready, 91ms
+2020-08-11 14:38:16,347 INFO 8148 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:38:16,386 INFO 8148 [egg-multipart] file mode enable
+2020-08-11 14:38:16,386 INFO 8148 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:38:16,388 INFO 8148 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:38:16,594 INFO 8148 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:38:16,597 INFO 8148 [egg-security] use methodnoallow middleware
+2020-08-11 14:38:16,598 INFO 8148 [egg-security] use noopen middleware
+2020-08-11 14:38:16,599 INFO 8148 [egg-security] use nosniff middleware
+2020-08-11 14:38:16,600 INFO 8148 [egg-security] use xssProtection middleware
+2020-08-11 14:38:16,601 INFO 8148 [egg-security] use xframe middleware
+2020-08-11 14:38:16,601 INFO 8148 [egg-security] use dta middleware
+2020-08-11 14:38:16,601 INFO 8148 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:38:16,727 INFO 8148 [egg:core] dump config after load, 63ms
+2020-08-11 14:38:16,757 INFO 8148 [egg-watcher:application] watcher start success
+2020-08-11 14:38:16,772 INFO 8148 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:38:16 GMT+0800 (GMT+08:00)
+2020-08-11 14:38:17,352 INFO 8148 [egg:core] dump config after ready, 578ms
+2020-08-11 14:38:18,611 INFO 12448 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:38:18,657 INFO 12448 [egg-multipart] file mode enable
+2020-08-11 14:38:18,657 INFO 12448 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:38:18,658 INFO 12448 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:38:18,829 INFO 12448 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:38:18,832 INFO 12448 [egg-security] use methodnoallow middleware
+2020-08-11 14:38:18,832 INFO 12448 [egg-security] use noopen middleware
+2020-08-11 14:38:18,833 INFO 12448 [egg-security] use nosniff middleware
+2020-08-11 14:38:18,834 INFO 12448 [egg-security] use xssProtection middleware
+2020-08-11 14:38:18,834 INFO 12448 [egg-security] use xframe middleware
+2020-08-11 14:38:18,835 INFO 12448 [egg-security] use dta middleware
+2020-08-11 14:38:18,835 INFO 12448 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:38:18,861 INFO 12448 [egg:core] dump config after load, 19ms
+2020-08-11 14:38:18,885 INFO 12448 [egg-watcher:application] watcher start success
+2020-08-11 14:38:18,893 INFO 12448 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:38:18 GMT+0800 (GMT+08:00)
+2020-08-11 14:38:18,935 INFO 12448 [egg:core] dump config after ready, 40ms
+2020-08-11 14:39:29,975 INFO 12336 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:39:30,008 INFO 12336 [egg-multipart] file mode enable
+2020-08-11 14:39:30,008 INFO 12336 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:39:30,009 INFO 12336 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:39:30,183 INFO 12336 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:39:30,186 INFO 12336 [egg-security] use methodnoallow middleware
+2020-08-11 14:39:30,187 INFO 12336 [egg-security] use noopen middleware
+2020-08-11 14:39:30,188 INFO 12336 [egg-security] use nosniff middleware
+2020-08-11 14:39:30,189 INFO 12336 [egg-security] use xssProtection middleware
+2020-08-11 14:39:30,189 INFO 12336 [egg-security] use xframe middleware
+2020-08-11 14:39:30,190 INFO 12336 [egg-security] use dta middleware
+2020-08-11 14:39:30,190 INFO 12336 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:39:30,217 INFO 12336 [egg:core] dump config after load, 20ms
+2020-08-11 14:39:30,236 INFO 12336 [egg-watcher:application] watcher start success
+2020-08-11 14:39:30,245 INFO 12336 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:39:30 GMT+0800 (GMT+08:00)
+2020-08-11 14:39:30,277 INFO 12336 [egg:core] dump config after ready, 30ms
+2020-08-11 14:39:31,265 INFO 9132 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:39:31,304 INFO 9132 [egg-multipart] file mode enable
+2020-08-11 14:39:31,304 INFO 9132 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:39:31,304 INFO 9132 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:39:31,453 INFO 9132 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:39:31,456 INFO 9132 [egg-security] use methodnoallow middleware
+2020-08-11 14:39:31,457 INFO 9132 [egg-security] use noopen middleware
+2020-08-11 14:39:31,458 INFO 9132 [egg-security] use nosniff middleware
+2020-08-11 14:39:31,459 INFO 9132 [egg-security] use xssProtection middleware
+2020-08-11 14:39:31,459 INFO 9132 [egg-security] use xframe middleware
+2020-08-11 14:39:31,460 INFO 9132 [egg-security] use dta middleware
+2020-08-11 14:39:31,460 INFO 9132 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:39:31,486 INFO 9132 [egg:core] dump config after load, 19ms
+2020-08-11 14:39:31,504 INFO 9132 [egg-watcher:application] watcher start success
+2020-08-11 14:39:31,514 INFO 9132 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:39:31 GMT+0800 (GMT+08:00)
+2020-08-11 14:39:31,602 INFO 9132 [egg:core] dump config after ready, 86ms
+2020-08-11 14:42:37,639 INFO 13320 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:42:37,674 INFO 13320 [egg-multipart] file mode enable
+2020-08-11 14:42:37,674 INFO 13320 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:42:37,675 INFO 13320 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:42:37,836 INFO 13320 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:42:37,839 INFO 13320 [egg-security] use methodnoallow middleware
+2020-08-11 14:42:37,839 INFO 13320 [egg-security] use noopen middleware
+2020-08-11 14:42:37,840 INFO 13320 [egg-security] use nosniff middleware
+2020-08-11 14:42:37,841 INFO 13320 [egg-security] use xssProtection middleware
+2020-08-11 14:42:37,842 INFO 13320 [egg-security] use xframe middleware
+2020-08-11 14:42:37,842 INFO 13320 [egg-security] use dta middleware
+2020-08-11 14:42:37,842 INFO 13320 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:42:37,870 INFO 13320 [egg:core] dump config after load, 19ms
+2020-08-11 14:42:37,891 INFO 13320 [egg-watcher:application] watcher start success
+2020-08-11 14:42:37,899 INFO 13320 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:42:37 GMT+0800 (GMT+08:00)
+2020-08-11 14:42:37,933 INFO 13320 [egg:core] dump config after ready, 32ms
+2020-08-11 14:43:28,081 INFO 2392 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 14:43:28,116 INFO 2392 [egg-multipart] file mode enable
+2020-08-11 14:43:28,116 INFO 2392 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 14:43:28,117 INFO 2392 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 14:43:28,293 INFO 2392 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 14:43:28,297 INFO 2392 [egg-security] use methodnoallow middleware
+2020-08-11 14:43:28,298 INFO 2392 [egg-security] use noopen middleware
+2020-08-11 14:43:28,299 INFO 2392 [egg-security] use nosniff middleware
+2020-08-11 14:43:28,300 INFO 2392 [egg-security] use xssProtection middleware
+2020-08-11 14:43:28,301 INFO 2392 [egg-security] use xframe middleware
+2020-08-11 14:43:28,301 INFO 2392 [egg-security] use dta middleware
+2020-08-11 14:43:28,301 INFO 2392 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 14:43:28,365 INFO 2392 [egg:core] dump config after load, 54ms
+2020-08-11 14:43:28,392 INFO 2392 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 14:43:28 GMT+0800 (GMT+08:00)
+2020-08-11 14:43:28,401 INFO 2392 [egg-watcher:application] watcher start success
+2020-08-11 14:43:28,461 INFO 2392 [egg:core] dump config after ready, 58ms
+2020-08-11 15:02:54,535 INFO 11472 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 15:02:54,569 INFO 11472 [egg-multipart] file mode enable
+2020-08-11 15:02:54,569 INFO 11472 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 15:02:54,569 INFO 11472 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 15:02:54,746 INFO 11472 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 15:02:54,749 INFO 11472 [egg-security] use methodnoallow middleware
+2020-08-11 15:02:54,750 INFO 11472 [egg-security] use noopen middleware
+2020-08-11 15:02:54,752 INFO 11472 [egg-security] use nosniff middleware
+2020-08-11 15:02:54,752 INFO 11472 [egg-security] use xssProtection middleware
+2020-08-11 15:02:54,753 INFO 11472 [egg-security] use xframe middleware
+2020-08-11 15:02:54,753 INFO 11472 [egg-security] use dta middleware
+2020-08-11 15:02:54,754 INFO 11472 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 15:02:54,787 INFO 11472 [egg:core] dump config after load, 20ms
+2020-08-11 15:02:54,806 INFO 11472 [egg-watcher:application] watcher start success
+2020-08-11 15:02:54,817 INFO 11472 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 15:02:54 GMT+0800 (GMT+08:00)
+2020-08-11 15:02:54,860 INFO 11472 [egg:core] dump config after ready, 40ms
+2020-08-11 15:03:30,884 INFO 11680 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 15:03:30,923 INFO 11680 [egg-multipart] file mode enable
+2020-08-11 15:03:30,923 INFO 11680 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 15:03:30,924 INFO 11680 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 15:03:31,138 INFO 11680 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 15:03:31,141 INFO 11680 [egg-security] use methodnoallow middleware
+2020-08-11 15:03:31,142 INFO 11680 [egg-security] use noopen middleware
+2020-08-11 15:03:31,143 INFO 11680 [egg-security] use nosniff middleware
+2020-08-11 15:03:31,144 INFO 11680 [egg-security] use xssProtection middleware
+2020-08-11 15:03:31,145 INFO 11680 [egg-security] use xframe middleware
+2020-08-11 15:03:31,145 INFO 11680 [egg-security] use dta middleware
+2020-08-11 15:03:31,145 INFO 11680 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 15:03:31,177 INFO 11680 [egg:core] dump config after load, 24ms
+2020-08-11 15:03:31,197 INFO 11680 [egg-watcher:application] watcher start success
+2020-08-11 15:03:31,211 INFO 11680 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 15:03:31 GMT+0800 (GMT+08:00)
+2020-08-11 15:03:31,247 INFO 11680 [egg:core] dump config after ready, 34ms
+2020-08-11 15:03:51,126 INFO 11196 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 15:03:51,158 INFO 11196 [egg-multipart] file mode enable
+2020-08-11 15:03:51,158 INFO 11196 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 15:03:51,158 INFO 11196 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 15:03:51,504 INFO 11196 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 15:03:51,507 INFO 11196 [egg-security] use methodnoallow middleware
+2020-08-11 15:03:51,508 INFO 11196 [egg-security] use noopen middleware
+2020-08-11 15:03:51,509 INFO 11196 [egg-security] use nosniff middleware
+2020-08-11 15:03:51,510 INFO 11196 [egg-security] use xssProtection middleware
+2020-08-11 15:03:51,510 INFO 11196 [egg-security] use xframe middleware
+2020-08-11 15:03:51,511 INFO 11196 [egg-security] use dta middleware
+2020-08-11 15:03:51,511 INFO 11196 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 15:03:51,538 INFO 11196 [egg:core] dump config after load, 19ms
+2020-08-11 15:03:51,556 INFO 11196 [egg-watcher:application] watcher start success
+2020-08-11 15:03:51,570 INFO 11196 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 15:03:51 GMT+0800 (GMT+08:00)
+2020-08-11 15:03:51,609 INFO 11196 [egg:core] dump config after ready, 37ms
+2020-08-11 15:05:08,246 INFO 536 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 15:05:08,278 INFO 536 [egg-multipart] file mode enable
+2020-08-11 15:05:08,278 INFO 536 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 15:05:08,278 INFO 536 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 15:05:08,454 INFO 536 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 15:05:08,458 INFO 536 [egg-security] use methodnoallow middleware
+2020-08-11 15:05:08,459 INFO 536 [egg-security] use noopen middleware
+2020-08-11 15:05:08,460 INFO 536 [egg-security] use nosniff middleware
+2020-08-11 15:05:08,461 INFO 536 [egg-security] use xssProtection middleware
+2020-08-11 15:05:08,461 INFO 536 [egg-security] use xframe middleware
+2020-08-11 15:05:08,462 INFO 536 [egg-security] use dta middleware
+2020-08-11 15:05:08,462 INFO 536 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 15:05:08,489 INFO 536 [egg:core] dump config after load, 19ms
+2020-08-11 15:05:08,507 INFO 536 [egg-watcher:application] watcher start success
+2020-08-11 15:05:08,516 INFO 536 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 15:05:08 GMT+0800 (GMT+08:00)
+2020-08-11 15:05:08,549 INFO 536 [egg:core] dump config after ready, 30ms
+2020-08-11 15:05:12,788 INFO 1816 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 15:05:12,853 INFO 1816 [egg-multipart] file mode enable
+2020-08-11 15:05:12,854 INFO 1816 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 15:05:12,854 INFO 1816 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 15:05:13,065 INFO 1816 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 15:05:13,068 INFO 1816 [egg-security] use methodnoallow middleware
+2020-08-11 15:05:13,069 INFO 1816 [egg-security] use noopen middleware
+2020-08-11 15:05:13,070 INFO 1816 [egg-security] use nosniff middleware
+2020-08-11 15:05:13,070 INFO 1816 [egg-security] use xssProtection middleware
+2020-08-11 15:05:13,071 INFO 1816 [egg-security] use xframe middleware
+2020-08-11 15:05:13,072 INFO 1816 [egg-security] use dta middleware
+2020-08-11 15:05:13,072 INFO 1816 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 15:05:13,098 INFO 1816 [egg:core] dump config after load, 20ms
+2020-08-11 15:05:13,116 INFO 1816 [egg-watcher:application] watcher start success
+2020-08-11 15:05:13,121 INFO 1816 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 15:05:13 GMT+0800 (GMT+08:00)
+2020-08-11 15:05:13,154 INFO 1816 [egg:core] dump config after ready, 27ms
+2020-08-11 15:05:27,992 INFO 4964 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 15:05:28,029 INFO 4964 [egg-multipart] file mode enable
+2020-08-11 15:05:28,029 INFO 4964 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 15:05:28,029 INFO 4964 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 15:05:28,202 INFO 4964 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 15:05:28,205 INFO 4964 [egg-security] use methodnoallow middleware
+2020-08-11 15:05:28,207 INFO 4964 [egg-security] use noopen middleware
+2020-08-11 15:05:28,210 INFO 4964 [egg-security] use nosniff middleware
+2020-08-11 15:05:28,210 INFO 4964 [egg-security] use xssProtection middleware
+2020-08-11 15:05:28,211 INFO 4964 [egg-security] use xframe middleware
+2020-08-11 15:05:28,211 INFO 4964 [egg-security] use dta middleware
+2020-08-11 15:05:28,212 INFO 4964 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 15:05:28,240 INFO 4964 [egg:core] dump config after load, 19ms
+2020-08-11 15:05:28,259 INFO 4964 [egg-watcher:application] watcher start success
+2020-08-11 15:05:28,269 INFO 4964 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 15:05:28 GMT+0800 (GMT+08:00)
+2020-08-11 15:05:28,349 INFO 4964 [egg:core] dump config after ready, 77ms
+2020-08-11 15:06:44,063 INFO 10936 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 15:06:44,095 INFO 10936 [egg-multipart] file mode enable
+2020-08-11 15:06:44,095 INFO 10936 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 15:06:44,096 INFO 10936 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 15:06:44,253 INFO 10936 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 15:06:44,256 INFO 10936 [egg-security] use methodnoallow middleware
+2020-08-11 15:06:44,256 INFO 10936 [egg-security] use noopen middleware
+2020-08-11 15:06:44,258 INFO 10936 [egg-security] use nosniff middleware
+2020-08-11 15:06:44,258 INFO 10936 [egg-security] use xssProtection middleware
+2020-08-11 15:06:44,259 INFO 10936 [egg-security] use xframe middleware
+2020-08-11 15:06:44,259 INFO 10936 [egg-security] use dta middleware
+2020-08-11 15:06:44,259 INFO 10936 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 15:06:44,296 INFO 10936 [egg:core] dump config after load, 23ms
+2020-08-11 15:06:44,314 INFO 10936 [egg-watcher:application] watcher start success
+2020-08-11 15:06:44,324 INFO 10936 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 15:06:44 GMT+0800 (GMT+08:00)
+2020-08-11 15:06:44,361 INFO 10936 [egg:core] dump config after ready, 35ms
+2020-08-11 15:06:54,590 INFO 6240 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 15:06:54,625 INFO 6240 [egg-multipart] file mode enable
+2020-08-11 15:06:54,625 INFO 6240 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 15:06:54,625 INFO 6240 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 15:06:54,782 INFO 6240 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 15:06:54,784 INFO 6240 [egg-security] use methodnoallow middleware
+2020-08-11 15:06:54,786 INFO 6240 [egg-security] use noopen middleware
+2020-08-11 15:06:54,787 INFO 6240 [egg-security] use nosniff middleware
+2020-08-11 15:06:54,788 INFO 6240 [egg-security] use xssProtection middleware
+2020-08-11 15:06:54,788 INFO 6240 [egg-security] use xframe middleware
+2020-08-11 15:06:54,789 INFO 6240 [egg-security] use dta middleware
+2020-08-11 15:06:54,789 INFO 6240 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 15:06:54,823 INFO 6240 [egg:core] dump config after load, 25ms
+2020-08-11 15:06:54,844 INFO 6240 [egg-watcher:application] watcher start success
+2020-08-11 15:06:54,867 INFO 6240 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 15:06:54 GMT+0800 (GMT+08:00)
+2020-08-11 15:06:54,901 INFO 6240 [egg:core] dump config after ready, 32ms
+2020-08-11 15:07:15,771 INFO 5208 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 15:07:15,817 INFO 5208 [egg-multipart] file mode enable
+2020-08-11 15:07:15,817 INFO 5208 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 15:07:15,818 INFO 5208 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 15:07:16,124 INFO 5208 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 15:07:16,128 INFO 5208 [egg-security] use methodnoallow middleware
+2020-08-11 15:07:16,128 INFO 5208 [egg-security] use noopen middleware
+2020-08-11 15:07:16,131 INFO 5208 [egg-security] use nosniff middleware
+2020-08-11 15:07:16,132 INFO 5208 [egg-security] use xssProtection middleware
+2020-08-11 15:07:16,133 INFO 5208 [egg-security] use xframe middleware
+2020-08-11 15:07:16,134 INFO 5208 [egg-security] use dta middleware
+2020-08-11 15:07:16,134 INFO 5208 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 15:07:16,180 INFO 5208 [egg:core] dump config after load, 31ms
+2020-08-11 15:07:16,220 INFO 5208 [egg-watcher:application] watcher start success
+2020-08-11 15:07:16,223 INFO 5208 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 15:07:16 GMT+0800 (GMT+08:00)
+2020-08-11 15:07:16,257 INFO 5208 [egg:core] dump config after ready, 32ms
+2020-08-11 15:12:11,642 INFO 10784 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 15:12:11,687 INFO 10784 [egg-multipart] file mode enable
+2020-08-11 15:12:11,687 INFO 10784 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 15:12:11,687 INFO 10784 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 15:12:11,858 INFO 10784 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 15:12:11,861 INFO 10784 [egg-security] use methodnoallow middleware
+2020-08-11 15:12:11,861 INFO 10784 [egg-security] use noopen middleware
+2020-08-11 15:12:11,864 INFO 10784 [egg-security] use nosniff middleware
+2020-08-11 15:12:11,865 INFO 10784 [egg-security] use xssProtection middleware
+2020-08-11 15:12:11,866 INFO 10784 [egg-security] use xframe middleware
+2020-08-11 15:12:11,866 INFO 10784 [egg-security] use dta middleware
+2020-08-11 15:12:11,866 INFO 10784 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 15:12:11,909 INFO 10784 [egg:core] dump config after load, 27ms
+2020-08-11 15:12:11,931 INFO 10784 [egg-watcher:application] watcher start success
+2020-08-11 15:12:11,942 INFO 10784 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 15:12:11 GMT+0800 (GMT+08:00)
+2020-08-11 15:12:11,976 INFO 10784 [egg:core] dump config after ready, 32ms
+2020-08-11 17:06:31,954 INFO 11016 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 17:06:31,986 INFO 11016 [egg-multipart] file mode enable
+2020-08-11 17:06:31,986 INFO 11016 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 17:06:31,987 INFO 11016 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 17:06:32,784 INFO 11016 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 17:06:32,789 INFO 11016 [egg-security] use methodnoallow middleware
+2020-08-11 17:06:32,790 INFO 11016 [egg-security] use noopen middleware
+2020-08-11 17:06:32,792 INFO 11016 [egg-security] use nosniff middleware
+2020-08-11 17:06:32,793 INFO 11016 [egg-security] use xssProtection middleware
+2020-08-11 17:06:32,794 INFO 11016 [egg-security] use xframe middleware
+2020-08-11 17:06:32,795 INFO 11016 [egg-security] use dta middleware
+2020-08-11 17:06:32,795 INFO 11016 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 17:06:33,689 INFO 11016 [egg:core] dump config after load, 885ms
+2020-08-11 17:06:33,727 INFO 11016 [egg-watcher:application] watcher start success
+2020-08-11 17:06:33,847 INFO 11016 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 17:06:33 GMT+0800 (GMT+08:00)
+2020-08-11 17:06:33,941 INFO 11016 [egg:core] dump config after ready, 86ms
+2020-08-11 17:06:34,910 INFO 5760 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 17:06:34,940 INFO 5760 [egg-multipart] file mode enable
+2020-08-11 17:06:34,940 INFO 5760 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 17:06:34,941 INFO 5760 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 17:06:35,163 INFO 5760 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 17:06:35,167 INFO 5760 [egg-security] use methodnoallow middleware
+2020-08-11 17:06:35,167 INFO 5760 [egg-security] use noopen middleware
+2020-08-11 17:06:35,169 INFO 5760 [egg-security] use nosniff middleware
+2020-08-11 17:06:35,170 INFO 5760 [egg-security] use xssProtection middleware
+2020-08-11 17:06:35,170 INFO 5760 [egg-security] use xframe middleware
+2020-08-11 17:06:35,171 INFO 5760 [egg-security] use dta middleware
+2020-08-11 17:06:35,171 INFO 5760 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 17:06:35,242 INFO 5760 [egg:core] dump config after load, 64ms
+2020-08-11 17:06:35,270 INFO 5760 [egg-watcher:application] watcher start success
+2020-08-11 17:06:35,276 INFO 5760 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 17:06:35 GMT+0800 (GMT+08:00)
+2020-08-11 17:06:35,305 INFO 5760 [egg:core] dump config after ready, 26ms
+2020-08-11 18:33:21,533 WARN 5760 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-08-11 19:36:00,670 INFO 15196 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 19:36:00,722 INFO 15196 [egg-multipart] file mode enable
+2020-08-11 19:36:00,722 INFO 15196 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 19:36:00,722 INFO 15196 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 19:36:08,413 INFO 15196 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 19:36:08,423 INFO 15196 [egg-security] use methodnoallow middleware
+2020-08-11 19:36:08,430 INFO 15196 [egg-security] use noopen middleware
+2020-08-11 19:36:08,438 INFO 15196 [egg-security] use nosniff middleware
+2020-08-11 19:36:08,445 INFO 15196 [egg-security] use xssProtection middleware
+2020-08-11 19:36:08,558 INFO 15196 [egg-security] use xframe middleware
+2020-08-11 19:36:08,565 INFO 15196 [egg-security] use dta middleware
+2020-08-11 19:36:08,565 INFO 15196 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 19:36:08,633 INFO 15196 [egg:core] dump config after load, 30ms
+2020-08-11 19:36:08,684 INFO 14576 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 19:36:08,715 INFO 14576 [egg-multipart] file mode enable
+2020-08-11 19:36:08,715 INFO 14576 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 19:36:08,715 INFO 14576 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 19:36:08,964 INFO 14576 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 19:36:08,967 INFO 14576 [egg-security] use methodnoallow middleware
+2020-08-11 19:36:08,967 INFO 14576 [egg-security] use noopen middleware
+2020-08-11 19:36:08,968 INFO 14576 [egg-security] use nosniff middleware
+2020-08-11 19:36:08,969 INFO 14576 [egg-security] use xssProtection middleware
+2020-08-11 19:36:08,970 INFO 14576 [egg-security] use xframe middleware
+2020-08-11 19:36:08,970 INFO 14576 [egg-security] use dta middleware
+2020-08-11 19:36:08,970 INFO 14576 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 19:36:08,995 INFO 14576 [egg:core] dump config after load, 18ms
+2020-08-11 19:36:09,013 INFO 14576 [egg-watcher:application] watcher start success
+2020-08-11 19:36:09,063 INFO 14576 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 19:36:09 GMT+0800 (GMT+08:00)
+2020-08-11 19:36:09,094 INFO 14576 [egg:core] dump config after ready, 28ms
+2020-08-11 19:36:10,482 INFO 9600 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 19:36:10,514 INFO 9600 [egg-multipart] file mode enable
+2020-08-11 19:36:10,514 INFO 9600 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 19:36:10,515 INFO 9600 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 19:36:10,674 INFO 9600 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 19:36:10,678 INFO 9600 [egg-security] use methodnoallow middleware
+2020-08-11 19:36:10,679 INFO 9600 [egg-security] use noopen middleware
+2020-08-11 19:36:10,680 INFO 9600 [egg-security] use nosniff middleware
+2020-08-11 19:36:10,681 INFO 9600 [egg-security] use xssProtection middleware
+2020-08-11 19:36:10,682 INFO 9600 [egg-security] use xframe middleware
+2020-08-11 19:36:10,682 INFO 9600 [egg-security] use dta middleware
+2020-08-11 19:36:10,682 INFO 9600 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 19:36:10,709 INFO 9600 [egg:core] dump config after load, 20ms
+2020-08-11 19:36:10,743 INFO 9600 [egg-watcher:application] watcher start success
+2020-08-11 19:36:10,766 INFO 9600 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 19:36:10 GMT+0800 (GMT+08:00)
+2020-08-11 19:36:10,798 INFO 9600 [egg:core] dump config after ready, 30ms
+2020-08-11 21:35:53,554 WARN 9600 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-08-11 21:42:33,660 INFO 11348 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 21:42:33,690 INFO 11348 [egg-multipart] file mode enable
+2020-08-11 21:42:33,690 INFO 11348 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 21:42:33,691 INFO 11348 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 21:42:34,113 INFO 11348 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 21:42:34,149 INFO 11348 [egg-security] use methodnoallow middleware
+2020-08-11 21:42:34,151 INFO 11348 [egg-security] use noopen middleware
+2020-08-11 21:42:34,153 INFO 11348 [egg-security] use nosniff middleware
+2020-08-11 21:42:34,155 INFO 11348 [egg-security] use xssProtection middleware
+2020-08-11 21:42:34,156 INFO 11348 [egg-security] use xframe middleware
+2020-08-11 21:42:34,158 INFO 11348 [egg-security] use dta middleware
+2020-08-11 21:42:34,158 INFO 11348 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 21:42:34,298 INFO 11348 [egg:core] dump config after load, 118ms
+2020-08-11 21:42:34,326 INFO 11348 [egg-watcher:application] watcher start success
+2020-08-11 21:42:34,476 INFO 11348 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 21:42:34 GMT+0800 (GMT+08:00)
+2020-08-11 21:42:34,706 INFO 11348 [egg:core] dump config after ready, 224ms
+2020-08-11 21:42:35,889 INFO 10956 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 21:42:35,918 INFO 10956 [egg-multipart] file mode enable
+2020-08-11 21:42:35,918 INFO 10956 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 21:42:35,919 INFO 10956 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 21:42:36,148 INFO 10956 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 21:42:36,151 INFO 10956 [egg-security] use methodnoallow middleware
+2020-08-11 21:42:36,152 INFO 10956 [egg-security] use noopen middleware
+2020-08-11 21:42:36,153 INFO 10956 [egg-security] use nosniff middleware
+2020-08-11 21:42:36,153 INFO 10956 [egg-security] use xssProtection middleware
+2020-08-11 21:42:36,154 INFO 10956 [egg-security] use xframe middleware
+2020-08-11 21:42:36,155 INFO 10956 [egg-security] use dta middleware
+2020-08-11 21:42:36,155 INFO 10956 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 21:42:36,191 INFO 10956 [egg:core] dump config after load, 28ms
+2020-08-11 21:42:36,215 INFO 10956 [egg-watcher:application] watcher start success
+2020-08-11 21:42:36,433 INFO 10956 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 21:42:36 GMT+0800 (GMT+08:00)
+2020-08-11 21:42:36,483 INFO 10956 [egg:core] dump config after ready, 43ms
+2020-08-11 21:42:37,881 INFO 7828 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-11 21:42:37,912 INFO 7828 [egg-multipart] file mode enable
+2020-08-11 21:42:37,912 INFO 7828 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-11 21:42:37,913 INFO 7828 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-11 21:42:38,067 INFO 7828 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-11 21:42:38,070 INFO 7828 [egg-security] use methodnoallow middleware
+2020-08-11 21:42:38,071 INFO 7828 [egg-security] use noopen middleware
+2020-08-11 21:42:38,072 INFO 7828 [egg-security] use nosniff middleware
+2020-08-11 21:42:38,072 INFO 7828 [egg-security] use xssProtection middleware
+2020-08-11 21:42:38,073 INFO 7828 [egg-security] use xframe middleware
+2020-08-11 21:42:38,074 INFO 7828 [egg-security] use dta middleware
+2020-08-11 21:42:38,074 INFO 7828 [egg-security] compose 6 middlewares into one security middleware
+2020-08-11 21:42:38,144 INFO 7828 [egg:core] dump config after load, 63ms
+2020-08-11 21:42:38,183 INFO 7828 [egg-watcher:application] watcher start success
+2020-08-11 21:42:38,209 INFO 7828 [egg-mysql] instance[0] status OK, rds currentTime: Tue Aug 11 2020 21:42:38 GMT+0800 (GMT+08:00)
+2020-08-11 21:42:38,259 INFO 7828 [egg:core] dump config after ready, 46ms
+2020-08-12 10:11:23,422 INFO 3944 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 10:11:23,452 INFO 3944 [egg-multipart] file mode enable
+2020-08-12 10:11:23,452 INFO 3944 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 10:11:23,453 INFO 3944 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 10:11:24,857 INFO 3944 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 10:11:24,920 INFO 3944 [egg-security] use methodnoallow middleware
+2020-08-12 10:11:24,928 INFO 3944 [egg-security] use noopen middleware
+2020-08-12 10:11:24,937 INFO 3944 [egg-security] use nosniff middleware
+2020-08-12 10:11:24,944 INFO 3944 [egg-security] use xssProtection middleware
+2020-08-12 10:11:24,951 INFO 3944 [egg-security] use xframe middleware
+2020-08-12 10:11:24,958 INFO 3944 [egg-security] use dta middleware
+2020-08-12 10:11:24,958 INFO 3944 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 10:11:25,128 INFO 3944 [egg:core] dump config after load, 84ms
+2020-08-12 10:11:18,854 INFO 2172 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 10:11:18,923 INFO 2172 [egg-multipart] file mode enable
+2020-08-12 10:11:18,923 INFO 2172 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 10:11:18,925 INFO 2172 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 10:11:24,857 INFO 2172 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 10:11:24,920 INFO 2172 [egg-security] use methodnoallow middleware
+2020-08-12 10:11:24,928 INFO 2172 [egg-security] use noopen middleware
+2020-08-12 10:11:24,937 INFO 2172 [egg-security] use nosniff middleware
+2020-08-12 10:11:24,944 INFO 2172 [egg-security] use xssProtection middleware
+2020-08-12 10:11:24,951 INFO 2172 [egg-security] use xframe middleware
+2020-08-12 10:11:24,958 INFO 2172 [egg-security] use dta middleware
+2020-08-12 10:11:24,958 INFO 2172 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 10:11:25,113 INFO 2172 [egg:core] dump config after load, 68ms
+2020-08-12 10:11:25,216 INFO 3944 [egg-watcher:application] watcher start success
+2020-08-12 10:11:25,524 INFO 3944 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 10:11:25 GMT+0800 (GMT+08:00)
+2020-08-12 10:11:25,602 INFO 3944 [egg:core] dump config after ready, 66ms
+2020-08-12 10:11:26,880 INFO 8436 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 10:11:26,910 INFO 8436 [egg-multipart] file mode enable
+2020-08-12 10:11:26,910 INFO 8436 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 10:11:26,910 INFO 8436 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 10:11:27,117 INFO 8436 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 10:11:27,122 INFO 8436 [egg-security] use methodnoallow middleware
+2020-08-12 10:11:27,124 INFO 8436 [egg-security] use noopen middleware
+2020-08-12 10:11:27,126 INFO 8436 [egg-security] use nosniff middleware
+2020-08-12 10:11:27,126 INFO 8436 [egg-security] use xssProtection middleware
+2020-08-12 10:11:27,127 INFO 8436 [egg-security] use xframe middleware
+2020-08-12 10:11:27,128 INFO 8436 [egg-security] use dta middleware
+2020-08-12 10:11:27,128 INFO 8436 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 10:11:27,156 INFO 8436 [egg:core] dump config after load, 20ms
+2020-08-12 10:11:27,176 INFO 8436 [egg-watcher:application] watcher start success
+2020-08-12 10:11:27,211 INFO 8436 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 10:11:27 GMT+0800 (GMT+08:00)
+2020-08-12 10:11:27,240 INFO 8436 [egg:core] dump config after ready, 27ms
+2020-08-12 13:33:48,507 INFO 5044 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 13:33:48,541 INFO 5044 [egg-multipart] file mode enable
+2020-08-12 13:33:48,541 INFO 5044 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 13:33:48,541 INFO 5044 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 13:33:49,701 INFO 5044 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 13:33:49,706 INFO 5044 [egg-security] use methodnoallow middleware
+2020-08-12 13:33:49,707 INFO 5044 [egg-security] use noopen middleware
+2020-08-12 13:33:49,708 INFO 5044 [egg-security] use nosniff middleware
+2020-08-12 13:33:49,709 INFO 5044 [egg-security] use xssProtection middleware
+2020-08-12 13:33:49,710 INFO 5044 [egg-security] use xframe middleware
+2020-08-12 13:33:49,711 INFO 5044 [egg-security] use dta middleware
+2020-08-12 13:33:49,711 INFO 5044 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 13:33:49,807 INFO 5044 [egg:core] dump config after load, 52ms
+2020-08-12 13:33:49,880 INFO 5044 [egg-watcher:application] watcher start success
+2020-08-12 13:33:49,976 INFO 5044 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 13:33:49 GMT+0800 (GMT+08:00)
+2020-08-12 13:33:50,012 INFO 5044 [egg:core] dump config after ready, 33ms
+2020-08-12 13:33:50,612 INFO 14384 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 13:33:50,642 INFO 14384 [egg-multipart] file mode enable
+2020-08-12 13:33:50,642 INFO 14384 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 13:33:50,642 INFO 14384 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 13:33:50,784 INFO 14384 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 13:33:50,787 INFO 14384 [egg-security] use methodnoallow middleware
+2020-08-12 13:33:50,788 INFO 14384 [egg-security] use noopen middleware
+2020-08-12 13:33:50,789 INFO 14384 [egg-security] use nosniff middleware
+2020-08-12 13:33:50,789 INFO 14384 [egg-security] use xssProtection middleware
+2020-08-12 13:33:50,790 INFO 14384 [egg-security] use xframe middleware
+2020-08-12 13:33:50,791 INFO 14384 [egg-security] use dta middleware
+2020-08-12 13:33:50,791 INFO 14384 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 13:33:50,816 INFO 14384 [egg:core] dump config after load, 19ms
+2020-08-12 13:33:50,843 INFO 14384 [egg-watcher:application] watcher start success
+2020-08-12 13:33:50,846 INFO 14384 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 13:33:50 GMT+0800 (GMT+08:00)
+2020-08-12 13:33:50,900 INFO 14384 [egg:core] dump config after ready, 52ms
+2020-08-12 13:33:51,895 INFO 12684 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 13:33:51,924 INFO 12684 [egg-multipart] file mode enable
+2020-08-12 13:33:51,925 INFO 12684 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 13:33:51,925 INFO 12684 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 13:33:52,067 INFO 12684 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 13:33:52,070 INFO 12684 [egg-security] use methodnoallow middleware
+2020-08-12 13:33:52,071 INFO 12684 [egg-security] use noopen middleware
+2020-08-12 13:33:52,072 INFO 12684 [egg-security] use nosniff middleware
+2020-08-12 13:33:52,072 INFO 12684 [egg-security] use xssProtection middleware
+2020-08-12 13:33:52,073 INFO 12684 [egg-security] use xframe middleware
+2020-08-12 13:33:52,074 INFO 12684 [egg-security] use dta middleware
+2020-08-12 13:33:52,074 INFO 12684 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 13:33:52,105 INFO 12684 [egg:core] dump config after load, 21ms
+2020-08-12 13:33:52,140 INFO 12684 [egg-watcher:application] watcher start success
+2020-08-12 13:33:52,146 INFO 12684 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 13:33:52 GMT+0800 (GMT+08:00)
+2020-08-12 13:33:52,175 INFO 12684 [egg:core] dump config after ready, 27ms
+2020-08-12 13:42:38,369 ERROR 12684 nodejs.ECONNABORTEDError: write ECONNABORTED (address: 127.0.0.1:62617)
+    at afterWriteDispatched (internal/stream_base_commons.js:154:25)
+    at writeGeneric (internal/stream_base_commons.js:145:3)
+    at Socket._writeGeneric (net.js:786:11)
+    at Socket._write (net.js:798:8)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Socket.Writable.write (_stream_writable.js:318:11)
+    at Follower.sendHeartBeat (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_tcp-base@3.1.0@tcp-base\lib\base.js:105:18)
+    at Timeout._onTimeout (F:\H\Node.js\eggs\eggs\snackshop1\node_modules\_tcp-base@3.1.0@tcp-base\lib\base.js:437:12)
+    at listOnTimeout (internal/timers.js:549:17)
+errno: "ECONNABORTED"
+code: "ECONNABORTED"
+syscall: "write"
+name: "ECONNABORTEDError"
+pid: 12684
+hostname: DESKTOP-U2ENI74
+
+2020-08-12 13:42:38,380 WARN 12684 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-08-12 13:42:59,581 INFO 13524 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 13:42:59,611 INFO 13524 [egg-multipart] file mode enable
+2020-08-12 13:42:59,611 INFO 13524 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 13:42:59,611 INFO 13524 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 13:42:59,756 INFO 13524 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 13:42:59,758 INFO 13524 [egg-security] use methodnoallow middleware
+2020-08-12 13:42:59,759 INFO 13524 [egg-security] use noopen middleware
+2020-08-12 13:42:59,760 INFO 13524 [egg-security] use nosniff middleware
+2020-08-12 13:42:59,761 INFO 13524 [egg-security] use xssProtection middleware
+2020-08-12 13:42:59,761 INFO 13524 [egg-security] use xframe middleware
+2020-08-12 13:42:59,762 INFO 13524 [egg-security] use dta middleware
+2020-08-12 13:42:59,762 INFO 13524 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 13:42:59,788 INFO 13524 [egg:core] dump config after load, 18ms
+2020-08-12 13:42:59,811 INFO 13524 [egg-watcher:application] watcher start success
+2020-08-12 13:42:59,814 INFO 13524 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 13:42:59 GMT+0800 (GMT+08:00)
+2020-08-12 13:42:59,848 INFO 13524 [egg:core] dump config after ready, 31ms
+2020-08-12 13:52:46,222 INFO 2592 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 13:52:46,254 INFO 2592 [egg-multipart] file mode enable
+2020-08-12 13:52:46,254 INFO 2592 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 13:52:46,255 INFO 2592 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 13:52:46,422 INFO 2592 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 13:52:46,425 INFO 2592 [egg-security] use methodnoallow middleware
+2020-08-12 13:52:46,426 INFO 2592 [egg-security] use noopen middleware
+2020-08-12 13:52:46,428 INFO 2592 [egg-security] use nosniff middleware
+2020-08-12 13:52:46,429 INFO 2592 [egg-security] use xssProtection middleware
+2020-08-12 13:52:46,429 INFO 2592 [egg-security] use xframe middleware
+2020-08-12 13:52:46,430 INFO 2592 [egg-security] use dta middleware
+2020-08-12 13:52:46,430 INFO 2592 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 13:52:46,457 INFO 2592 [egg:core] dump config after load, 20ms
+2020-08-12 13:52:46,490 INFO 2592 [egg-watcher:application] watcher start success
+2020-08-12 13:52:46,547 INFO 2592 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 13:52:46 GMT+0800 (GMT+08:00)
+2020-08-12 13:52:46,588 INFO 2592 [egg:core] dump config after ready, 36ms
+2020-08-12 14:47:46,324 INFO 14532 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 14:47:46,686 INFO 14532 [egg-multipart] file mode enable
+2020-08-12 14:47:46,686 INFO 14532 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 14:47:46,687 INFO 14532 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 14:47:50,325 INFO 14532 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 14:47:50,328 INFO 14532 [egg-security] use methodnoallow middleware
+2020-08-12 14:47:50,329 INFO 14532 [egg-security] use noopen middleware
+2020-08-12 14:47:50,364 INFO 14532 [egg-security] use nosniff middleware
+2020-08-12 14:47:50,365 INFO 14532 [egg-security] use xssProtection middleware
+2020-08-12 14:47:50,366 INFO 14532 [egg-security] use xframe middleware
+2020-08-12 14:47:50,367 INFO 14532 [egg-security] use dta middleware
+2020-08-12 14:47:50,367 INFO 14532 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 14:47:50,497 INFO 14532 [egg:core] dump config after load, 56ms
+2020-08-12 14:47:50,702 INFO 14532 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 14:47:50 GMT+0800 (GMT+08:00)
+2020-08-12 14:47:50,709 INFO 14532 [egg-watcher:application] watcher start success
+2020-08-12 14:47:50,853 INFO 14532 [egg:core] dump config after ready, 138ms
+2020-08-12 14:47:52,347 INFO 14064 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 14:47:52,382 INFO 14064 [egg-multipart] file mode enable
+2020-08-12 14:47:52,382 INFO 14064 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 14:47:52,382 INFO 14064 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 14:47:52,565 INFO 14064 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 14:47:52,568 INFO 14064 [egg-security] use methodnoallow middleware
+2020-08-12 14:47:52,569 INFO 14064 [egg-security] use noopen middleware
+2020-08-12 14:47:52,571 INFO 14064 [egg-security] use nosniff middleware
+2020-08-12 14:47:52,571 INFO 14064 [egg-security] use xssProtection middleware
+2020-08-12 14:47:52,572 INFO 14064 [egg-security] use xframe middleware
+2020-08-12 14:47:52,573 INFO 14064 [egg-security] use dta middleware
+2020-08-12 14:47:52,573 INFO 14064 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 14:47:52,603 INFO 14064 [egg:core] dump config after load, 19ms
+2020-08-12 14:47:52,623 INFO 14064 [egg-watcher:application] watcher start success
+2020-08-12 14:47:52,676 INFO 14064 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 14:47:52 GMT+0800 (GMT+08:00)
+2020-08-12 14:47:52,722 INFO 14064 [egg:core] dump config after ready, 41ms
+2020-08-12 14:51:36,659 INFO 13604 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 14:51:36,691 INFO 13604 [egg-multipart] file mode enable
+2020-08-12 14:51:36,691 INFO 13604 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 14:51:36,691 INFO 13604 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 14:51:36,836 INFO 13604 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 14:51:36,838 INFO 13604 [egg-security] use methodnoallow middleware
+2020-08-12 14:51:36,839 INFO 13604 [egg-security] use noopen middleware
+2020-08-12 14:51:36,840 INFO 13604 [egg-security] use nosniff middleware
+2020-08-12 14:51:36,841 INFO 13604 [egg-security] use xssProtection middleware
+2020-08-12 14:51:36,841 INFO 13604 [egg-security] use xframe middleware
+2020-08-12 14:51:36,842 INFO 13604 [egg-security] use dta middleware
+2020-08-12 14:51:36,842 INFO 13604 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 14:51:36,879 INFO 13604 [egg:core] dump config after load, 23ms
+2020-08-12 14:51:36,902 INFO 13604 [egg-watcher:application] watcher start success
+2020-08-12 14:51:36,905 INFO 13604 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 14:51:36 GMT+0800 (GMT+08:00)
+2020-08-12 14:51:36,974 INFO 13604 [egg:core] dump config after ready, 67ms
+2020-08-12 14:52:07,538 INFO 11044 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 14:52:07,580 INFO 11044 [egg-multipart] file mode enable
+2020-08-12 14:52:07,580 INFO 11044 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 14:52:07,583 INFO 11044 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 14:52:07,771 INFO 11044 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 14:52:07,775 INFO 11044 [egg-security] use methodnoallow middleware
+2020-08-12 14:52:07,775 INFO 11044 [egg-security] use noopen middleware
+2020-08-12 14:52:07,776 INFO 11044 [egg-security] use nosniff middleware
+2020-08-12 14:52:07,777 INFO 11044 [egg-security] use xssProtection middleware
+2020-08-12 14:52:07,778 INFO 11044 [egg-security] use xframe middleware
+2020-08-12 14:52:07,779 INFO 11044 [egg-security] use dta middleware
+2020-08-12 14:52:07,779 INFO 11044 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 14:52:07,874 INFO 11044 [egg:core] dump config after load, 60ms
+2020-08-12 14:52:07,911 INFO 11044 [egg-watcher:application] watcher start success
+2020-08-12 14:52:07,914 INFO 11044 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 14:52:07 GMT+0800 (GMT+08:00)
+2020-08-12 14:52:07,955 INFO 11044 [egg:core] dump config after ready, 37ms
+2020-08-12 14:53:25,752 INFO 14060 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 14:53:25,804 INFO 14060 [egg-multipart] file mode enable
+2020-08-12 14:53:25,804 INFO 14060 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 14:53:25,805 INFO 14060 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 14:53:26,543 INFO 14060 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 14:53:26,547 INFO 14060 [egg-security] use methodnoallow middleware
+2020-08-12 14:53:26,548 INFO 14060 [egg-security] use noopen middleware
+2020-08-12 14:53:26,549 INFO 14060 [egg-security] use nosniff middleware
+2020-08-12 14:53:26,550 INFO 14060 [egg-security] use xssProtection middleware
+2020-08-12 14:53:26,550 INFO 14060 [egg-security] use xframe middleware
+2020-08-12 14:53:26,551 INFO 14060 [egg-security] use dta middleware
+2020-08-12 14:53:26,551 INFO 14060 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 14:53:26,677 INFO 14060 [egg:core] dump config after load, 50ms
+2020-08-12 14:53:26,709 INFO 14060 [egg-watcher:application] watcher start success
+2020-08-12 14:53:26,730 INFO 14060 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 14:53:26 GMT+0800 (GMT+08:00)
+2020-08-12 14:53:26,787 INFO 14060 [egg:core] dump config after ready, 55ms
+2020-08-12 14:54:49,081 INFO 13636 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 14:54:49,113 INFO 13636 [egg-multipart] file mode enable
+2020-08-12 14:54:49,113 INFO 13636 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 14:54:49,114 INFO 13636 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 14:54:49,326 INFO 13636 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 14:54:49,330 INFO 13636 [egg-security] use methodnoallow middleware
+2020-08-12 14:54:49,331 INFO 13636 [egg-security] use noopen middleware
+2020-08-12 14:54:49,333 INFO 13636 [egg-security] use nosniff middleware
+2020-08-12 14:54:49,333 INFO 13636 [egg-security] use xssProtection middleware
+2020-08-12 14:54:49,334 INFO 13636 [egg-security] use xframe middleware
+2020-08-12 14:54:49,335 INFO 13636 [egg-security] use dta middleware
+2020-08-12 14:54:49,335 INFO 13636 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 14:54:49,365 INFO 13636 [egg:core] dump config after load, 21ms
+2020-08-12 14:54:49,392 INFO 13636 [egg-watcher:application] watcher start success
+2020-08-12 14:54:49,395 INFO 13636 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 14:54:49 GMT+0800 (GMT+08:00)
+2020-08-12 14:54:49,426 INFO 13636 [egg:core] dump config after ready, 29ms
+2020-08-12 14:55:19,686 INFO 13024 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 14:55:19,721 INFO 13024 [egg-multipart] file mode enable
+2020-08-12 14:55:19,721 INFO 13024 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 14:55:19,721 INFO 13024 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 14:55:19,952 INFO 13024 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 14:55:19,955 INFO 13024 [egg-security] use methodnoallow middleware
+2020-08-12 14:55:19,957 INFO 13024 [egg-security] use noopen middleware
+2020-08-12 14:55:19,960 INFO 13024 [egg-security] use nosniff middleware
+2020-08-12 14:55:19,961 INFO 13024 [egg-security] use xssProtection middleware
+2020-08-12 14:55:19,962 INFO 13024 [egg-security] use xframe middleware
+2020-08-12 14:55:19,962 INFO 13024 [egg-security] use dta middleware
+2020-08-12 14:55:19,963 INFO 13024 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 14:55:19,993 INFO 13024 [egg:core] dump config after load, 23ms
+2020-08-12 14:55:20,016 INFO 13024 [egg-watcher:application] watcher start success
+2020-08-12 14:55:20,076 INFO 13024 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 14:55:20 GMT+0800 (GMT+08:00)
+2020-08-12 14:55:20,116 INFO 13024 [egg:core] dump config after ready, 37ms
+2020-08-12 14:55:47,449 INFO 4836 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 14:55:47,488 INFO 4836 [egg-multipart] file mode enable
+2020-08-12 14:55:47,488 INFO 4836 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 14:55:47,488 INFO 4836 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 14:55:47,663 INFO 4836 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 14:55:47,666 INFO 4836 [egg-security] use methodnoallow middleware
+2020-08-12 14:55:47,666 INFO 4836 [egg-security] use noopen middleware
+2020-08-12 14:55:47,667 INFO 4836 [egg-security] use nosniff middleware
+2020-08-12 14:55:47,668 INFO 4836 [egg-security] use xssProtection middleware
+2020-08-12 14:55:47,669 INFO 4836 [egg-security] use xframe middleware
+2020-08-12 14:55:47,669 INFO 4836 [egg-security] use dta middleware
+2020-08-12 14:55:47,669 INFO 4836 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 14:55:47,704 INFO 4836 [egg:core] dump config after load, 24ms
+2020-08-12 14:55:47,732 INFO 4836 [egg-watcher:application] watcher start success
+2020-08-12 14:55:47,735 INFO 4836 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 14:55:47 GMT+0800 (GMT+08:00)
+2020-08-12 14:55:47,783 INFO 4836 [egg:core] dump config after ready, 46ms
+2020-08-12 15:00:43,525 INFO 2860 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 15:00:43,589 INFO 2860 [egg-multipart] file mode enable
+2020-08-12 15:00:43,589 INFO 2860 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 15:00:43,590 INFO 2860 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 15:00:44,684 INFO 2860 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 15:00:44,687 INFO 2860 [egg-security] use methodnoallow middleware
+2020-08-12 15:00:44,687 INFO 2860 [egg-security] use noopen middleware
+2020-08-12 15:00:44,689 INFO 2860 [egg-security] use nosniff middleware
+2020-08-12 15:00:44,690 INFO 2860 [egg-security] use xssProtection middleware
+2020-08-12 15:00:44,691 INFO 2860 [egg-security] use xframe middleware
+2020-08-12 15:00:44,691 INFO 2860 [egg-security] use dta middleware
+2020-08-12 15:00:44,716 INFO 2860 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 15:00:44,826 INFO 2860 [egg:core] dump config after load, 49ms
+2020-08-12 15:00:44,866 INFO 2860 [egg-watcher:application] watcher start success
+2020-08-12 15:00:44,883 INFO 2860 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 15:00:44 GMT+0800 (GMT+08:00)
+2020-08-12 15:00:44,936 INFO 2860 [egg:core] dump config after ready, 51ms
+2020-08-12 15:01:00,880 INFO 13408 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 15:01:00,918 INFO 13408 [egg-multipart] file mode enable
+2020-08-12 15:01:00,918 INFO 13408 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 15:01:00,919 INFO 13408 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 15:01:01,123 INFO 13408 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 15:01:01,128 INFO 13408 [egg-security] use methodnoallow middleware
+2020-08-12 15:01:01,129 INFO 13408 [egg-security] use noopen middleware
+2020-08-12 15:01:01,131 INFO 13408 [egg-security] use nosniff middleware
+2020-08-12 15:01:01,132 INFO 13408 [egg-security] use xssProtection middleware
+2020-08-12 15:01:01,133 INFO 13408 [egg-security] use xframe middleware
+2020-08-12 15:01:01,134 INFO 13408 [egg-security] use dta middleware
+2020-08-12 15:01:01,134 INFO 13408 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 15:01:01,178 INFO 13408 [egg:core] dump config after load, 26ms
+2020-08-12 15:01:01,205 INFO 13408 [egg-watcher:application] watcher start success
+2020-08-12 15:01:01,221 INFO 13408 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 15:01:01 GMT+0800 (GMT+08:00)
+2020-08-12 15:01:01,264 INFO 13408 [egg:core] dump config after ready, 41ms
+2020-08-12 15:01:51,486 INFO 4532 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 15:01:51,537 INFO 4532 [egg-multipart] file mode enable
+2020-08-12 15:01:51,537 INFO 4532 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 15:01:51,538 INFO 4532 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 15:01:51,947 INFO 4532 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 15:01:51,950 INFO 4532 [egg-security] use methodnoallow middleware
+2020-08-12 15:01:51,950 INFO 4532 [egg-security] use noopen middleware
+2020-08-12 15:01:51,951 INFO 4532 [egg-security] use nosniff middleware
+2020-08-12 15:01:51,952 INFO 4532 [egg-security] use xssProtection middleware
+2020-08-12 15:01:51,953 INFO 4532 [egg-security] use xframe middleware
+2020-08-12 15:01:51,954 INFO 4532 [egg-security] use dta middleware
+2020-08-12 15:01:51,954 INFO 4532 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 15:01:51,984 INFO 4532 [egg:core] dump config after load, 23ms
+2020-08-12 15:01:52,025 INFO 4532 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 15:01:52 GMT+0800 (GMT+08:00)
+2020-08-12 15:01:52,052 INFO 4532 [egg-watcher:application] watcher start success
+2020-08-12 15:01:52,085 INFO 4532 [egg:core] dump config after ready, 31ms
+2020-08-12 15:16:35,357 INFO 8336 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 15:16:35,436 INFO 8336 [egg-multipart] file mode enable
+2020-08-12 15:16:35,436 INFO 8336 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 15:16:35,437 INFO 8336 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 15:16:36,929 INFO 8336 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 15:16:36,955 INFO 8336 [egg-security] use methodnoallow middleware
+2020-08-12 15:16:36,956 INFO 8336 [egg-security] use noopen middleware
+2020-08-12 15:16:36,957 INFO 8336 [egg-security] use nosniff middleware
+2020-08-12 15:16:36,957 INFO 8336 [egg-security] use xssProtection middleware
+2020-08-12 15:16:36,958 INFO 8336 [egg-security] use xframe middleware
+2020-08-12 15:16:36,959 INFO 8336 [egg-security] use dta middleware
+2020-08-12 15:16:36,959 INFO 8336 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 15:16:37,134 INFO 8336 [egg:core] dump config after load, 138ms
+2020-08-12 15:16:37,173 INFO 8336 [egg-watcher:application] watcher start success
+2020-08-12 15:16:37,274 INFO 8336 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 15:16:37 GMT+0800 (GMT+08:00)
+2020-08-12 15:16:37,359 INFO 8336 [egg:core] dump config after ready, 82ms
+2020-08-12 15:20:00,866 INFO 14784 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 15:20:00,900 INFO 14784 [egg-multipart] file mode enable
+2020-08-12 15:20:00,900 INFO 14784 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 15:20:00,901 INFO 14784 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 15:20:01,071 INFO 14784 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 15:20:01,074 INFO 14784 [egg-security] use methodnoallow middleware
+2020-08-12 15:20:01,075 INFO 14784 [egg-security] use noopen middleware
+2020-08-12 15:20:01,076 INFO 14784 [egg-security] use nosniff middleware
+2020-08-12 15:20:01,077 INFO 14784 [egg-security] use xssProtection middleware
+2020-08-12 15:20:01,077 INFO 14784 [egg-security] use xframe middleware
+2020-08-12 15:20:01,078 INFO 14784 [egg-security] use dta middleware
+2020-08-12 15:20:01,078 INFO 14784 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 15:20:01,230 INFO 14784 [egg:core] dump config after load, 68ms
+2020-08-12 15:20:01,256 INFO 14784 [egg-watcher:application] watcher start success
+2020-08-12 15:20:01,260 INFO 14784 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 15:20:01 GMT+0800 (GMT+08:00)
+2020-08-12 15:20:01,321 INFO 14784 [egg:core] dump config after ready, 55ms
+2020-08-12 15:20:41,215 INFO 14348 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 15:20:41,247 INFO 14348 [egg-multipart] file mode enable
+2020-08-12 15:20:41,247 INFO 14348 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 15:20:41,247 INFO 14348 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 15:20:41,408 INFO 14348 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 15:20:41,411 INFO 14348 [egg-security] use methodnoallow middleware
+2020-08-12 15:20:41,412 INFO 14348 [egg-security] use noopen middleware
+2020-08-12 15:20:41,413 INFO 14348 [egg-security] use nosniff middleware
+2020-08-12 15:20:41,413 INFO 14348 [egg-security] use xssProtection middleware
+2020-08-12 15:20:41,414 INFO 14348 [egg-security] use xframe middleware
+2020-08-12 15:20:41,415 INFO 14348 [egg-security] use dta middleware
+2020-08-12 15:20:41,415 INFO 14348 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 15:20:41,510 INFO 14348 [egg:core] dump config after load, 29ms
+2020-08-12 15:20:41,535 INFO 14348 [egg-watcher:application] watcher start success
+2020-08-12 15:20:41,570 INFO 14348 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 15:20:41 GMT+0800 (GMT+08:00)
+2020-08-12 15:20:41,611 INFO 14348 [egg:core] dump config after ready, 38ms
+2020-08-12 15:21:10,678 INFO 10956 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 15:21:10,710 INFO 10956 [egg-multipart] file mode enable
+2020-08-12 15:21:10,710 INFO 10956 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 15:21:10,710 INFO 10956 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 15:21:15,985 INFO 10956 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 15:21:15,988 INFO 10956 [egg-security] use methodnoallow middleware
+2020-08-12 15:21:15,989 INFO 10956 [egg-security] use noopen middleware
+2020-08-12 15:21:15,991 INFO 10956 [egg-security] use nosniff middleware
+2020-08-12 15:21:15,991 INFO 10956 [egg-security] use xssProtection middleware
+2020-08-12 15:21:15,992 INFO 10956 [egg-security] use xframe middleware
+2020-08-12 15:21:15,993 INFO 10956 [egg-security] use dta middleware
+2020-08-12 15:21:15,993 INFO 10956 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 15:21:16,254 INFO 10956 [egg:core] dump config after load, 20ms
+2020-08-12 15:21:16,288 INFO 10956 [egg-watcher:application] watcher start success
+2020-08-12 15:21:16,360 INFO 10956 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 15:21:16 GMT+0800 (GMT+08:00)
+2020-08-12 15:21:16,461 INFO 10956 [egg:core] dump config after ready, 99ms
+2020-08-12 15:22:40,511 INFO 1216 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 15:22:40,546 INFO 1216 [egg-multipart] file mode enable
+2020-08-12 15:22:40,546 INFO 1216 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 15:22:40,546 INFO 1216 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 15:22:40,709 INFO 1216 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 15:22:40,712 INFO 1216 [egg-security] use methodnoallow middleware
+2020-08-12 15:22:40,712 INFO 1216 [egg-security] use noopen middleware
+2020-08-12 15:22:40,714 INFO 1216 [egg-security] use nosniff middleware
+2020-08-12 15:22:40,714 INFO 1216 [egg-security] use xssProtection middleware
+2020-08-12 15:22:40,715 INFO 1216 [egg-security] use xframe middleware
+2020-08-12 15:22:40,717 INFO 1216 [egg-security] use dta middleware
+2020-08-12 15:22:40,717 INFO 1216 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 15:22:40,748 INFO 1216 [egg:core] dump config after load, 23ms
+2020-08-12 15:22:40,777 INFO 1216 [egg-watcher:application] watcher start success
+2020-08-12 15:22:40,785 INFO 1216 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 15:22:40 GMT+0800 (GMT+08:00)
+2020-08-12 15:22:40,868 INFO 1216 [egg:core] dump config after ready, 80ms
+2020-08-12 15:28:23,308 INFO 9936 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 15:28:23,345 INFO 9936 [egg-multipart] file mode enable
+2020-08-12 15:28:23,345 INFO 9936 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 15:28:23,345 INFO 9936 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 15:28:23,494 INFO 9936 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 15:28:23,496 INFO 9936 [egg-security] use methodnoallow middleware
+2020-08-12 15:28:23,497 INFO 9936 [egg-security] use noopen middleware
+2020-08-12 15:28:23,498 INFO 9936 [egg-security] use nosniff middleware
+2020-08-12 15:28:23,499 INFO 9936 [egg-security] use xssProtection middleware
+2020-08-12 15:28:23,499 INFO 9936 [egg-security] use xframe middleware
+2020-08-12 15:28:23,500 INFO 9936 [egg-security] use dta middleware
+2020-08-12 15:28:23,500 INFO 9936 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 15:28:23,579 INFO 9936 [egg:core] dump config after load, 71ms
+2020-08-12 15:28:23,606 INFO 9936 [egg-watcher:application] watcher start success
+2020-08-12 15:28:23,609 INFO 9936 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 15:28:23 GMT+0800 (GMT+08:00)
+2020-08-12 15:28:23,640 INFO 9936 [egg:core] dump config after ready, 29ms
+2020-08-12 16:06:05,899 INFO 14384 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 16:06:05,930 INFO 14384 [egg-multipart] file mode enable
+2020-08-12 16:06:05,930 INFO 14384 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 16:06:05,931 INFO 14384 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 16:06:06,579 INFO 14384 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 16:06:06,583 INFO 14384 [egg-security] use methodnoallow middleware
+2020-08-12 16:06:06,584 INFO 14384 [egg-security] use noopen middleware
+2020-08-12 16:06:06,586 INFO 14384 [egg-security] use nosniff middleware
+2020-08-12 16:06:06,587 INFO 14384 [egg-security] use xssProtection middleware
+2020-08-12 16:06:06,589 INFO 14384 [egg-security] use xframe middleware
+2020-08-12 16:06:06,590 INFO 14384 [egg-security] use dta middleware
+2020-08-12 16:06:06,590 INFO 14384 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 16:06:06,632 INFO 14384 [egg:core] dump config after load, 26ms
+2020-08-12 16:06:06,665 INFO 14384 [egg-watcher:application] watcher start success
+2020-08-12 16:06:06,668 INFO 14384 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 16:06:06 GMT+0800 (GMT+08:00)
+2020-08-12 16:06:06,791 INFO 14384 [egg:core] dump config after ready, 120ms
+2020-08-12 16:06:08,065 INFO 4240 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 16:06:08,098 INFO 4240 [egg-multipart] file mode enable
+2020-08-12 16:06:08,098 INFO 4240 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 16:06:08,099 INFO 4240 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 16:06:08,265 INFO 4240 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 16:06:08,268 INFO 4240 [egg-security] use methodnoallow middleware
+2020-08-12 16:06:08,269 INFO 4240 [egg-security] use noopen middleware
+2020-08-12 16:06:08,270 INFO 4240 [egg-security] use nosniff middleware
+2020-08-12 16:06:08,270 INFO 4240 [egg-security] use xssProtection middleware
+2020-08-12 16:06:08,271 INFO 4240 [egg-security] use xframe middleware
+2020-08-12 16:06:08,272 INFO 4240 [egg-security] use dta middleware
+2020-08-12 16:06:08,272 INFO 4240 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 16:06:08,297 INFO 4240 [egg:core] dump config after load, 18ms
+2020-08-12 16:06:08,323 INFO 4240 [egg-watcher:application] watcher start success
+2020-08-12 16:06:08,331 INFO 4240 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 16:06:08 GMT+0800 (GMT+08:00)
+2020-08-12 16:06:08,737 INFO 4240 [egg:core] dump config after ready, 404ms
+2020-08-12 16:06:09,775 INFO 9352 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 16:06:09,806 INFO 9352 [egg-multipart] file mode enable
+2020-08-12 16:06:09,806 INFO 9352 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 16:06:09,806 INFO 9352 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 16:06:10,045 INFO 9352 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 16:06:10,048 INFO 9352 [egg-security] use methodnoallow middleware
+2020-08-12 16:06:10,049 INFO 9352 [egg-security] use noopen middleware
+2020-08-12 16:06:10,050 INFO 9352 [egg-security] use nosniff middleware
+2020-08-12 16:06:10,050 INFO 9352 [egg-security] use xssProtection middleware
+2020-08-12 16:06:10,051 INFO 9352 [egg-security] use xframe middleware
+2020-08-12 16:06:10,052 INFO 9352 [egg-security] use dta middleware
+2020-08-12 16:06:10,052 INFO 9352 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 16:06:10,079 INFO 9352 [egg:core] dump config after load, 20ms
+2020-08-12 16:06:10,102 INFO 9352 [egg-watcher:application] watcher start success
+2020-08-12 16:06:10,164 INFO 9352 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 16:06:10 GMT+0800 (GMT+08:00)
+2020-08-12 16:06:10,200 INFO 9352 [egg:core] dump config after ready, 34ms
+2020-08-12 18:13:59,336 WARN 9352 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-08-12 18:13:59,341 WARN 9352 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-08-12 21:04:28,283 INFO 7800 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 21:04:28,328 INFO 7800 [egg-multipart] file mode enable
+2020-08-12 21:04:28,328 INFO 7800 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 21:04:28,328 INFO 7800 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 21:04:30,873 INFO 7800 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 21:04:30,901 INFO 7800 [egg-security] use methodnoallow middleware
+2020-08-12 21:04:30,910 INFO 7800 [egg-security] use noopen middleware
+2020-08-12 21:04:30,921 INFO 7800 [egg-security] use nosniff middleware
+2020-08-12 21:04:30,928 INFO 7800 [egg-security] use xssProtection middleware
+2020-08-12 21:04:30,936 INFO 7800 [egg-security] use xframe middleware
+2020-08-12 21:04:30,944 INFO 7800 [egg-security] use dta middleware
+2020-08-12 21:04:30,944 INFO 7800 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 21:04:31,041 INFO 7800 [egg:core] dump config after load, 26ms
+2020-08-12 21:04:31,238 INFO 3204 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 21:04:31,280 INFO 3204 [egg-multipart] file mode enable
+2020-08-12 21:04:31,280 INFO 3204 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 21:04:31,280 INFO 3204 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 21:04:31,425 INFO 3204 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 21:04:31,429 INFO 3204 [egg-security] use methodnoallow middleware
+2020-08-12 21:04:31,429 INFO 3204 [egg-security] use noopen middleware
+2020-08-12 21:04:31,431 INFO 3204 [egg-security] use nosniff middleware
+2020-08-12 21:04:31,432 INFO 3204 [egg-security] use xssProtection middleware
+2020-08-12 21:04:31,432 INFO 3204 [egg-security] use xframe middleware
+2020-08-12 21:04:31,433 INFO 3204 [egg-security] use dta middleware
+2020-08-12 21:04:31,433 INFO 3204 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 21:04:31,464 INFO 3204 [egg:core] dump config after load, 23ms
+2020-08-12 21:04:31,491 INFO 3204 [egg-watcher:application] watcher start success
+2020-08-12 21:04:31,542 INFO 3204 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 21:04:31 GMT+0800 (GMT+08:00)
+2020-08-12 21:04:31,757 INFO 3204 [egg:core] dump config after ready, 212ms
+2020-08-12 21:04:32,821 INFO 14724 [egg:logger] init all loggers with options: {"dir":"F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\logs\\snackshop1","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"snackshop1-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-12 21:04:32,849 INFO 14724 [egg-multipart] file mode enable
+2020-08-12 21:04:32,849 INFO 14724 [egg-multipart] will save temporary files to "C:\\Users\\admin\\AppData\\Local\\Temp\\egg-multipart-tmp\\snackshop1", cleanup job cron: "0 30 4 * * *"
+2020-08-12 21:04:32,850 INFO 14724 [egg-mysql] connecting root@localhost:3306/snack
+2020-08-12 21:04:32,994 INFO 14724 [egg-static] starting static serve /public/ -> F:\H\Node.js\eggs\eggs\snackshop1\app\public
+2020-08-12 21:04:32,997 INFO 14724 [egg-security] use methodnoallow middleware
+2020-08-12 21:04:32,998 INFO 14724 [egg-security] use noopen middleware
+2020-08-12 21:04:32,999 INFO 14724 [egg-security] use nosniff middleware
+2020-08-12 21:04:32,999 INFO 14724 [egg-security] use xssProtection middleware
+2020-08-12 21:04:33,000 INFO 14724 [egg-security] use xframe middleware
+2020-08-12 21:04:33,001 INFO 14724 [egg-security] use dta middleware
+2020-08-12 21:04:33,001 INFO 14724 [egg-security] compose 6 middlewares into one security middleware
+2020-08-12 21:04:33,058 INFO 14724 [egg:core] dump config after load, 50ms
+2020-08-12 21:04:33,090 INFO 14724 [egg-watcher:application] watcher start success
+2020-08-12 21:04:33,151 INFO 14724 [egg-mysql] instance[0] status OK, rds currentTime: Wed Aug 12 2020 21:04:33 GMT+0800 (GMT+08:00)
+2020-08-12 21:04:33,248 INFO 14724 [egg:core] dump config after ready, 93ms

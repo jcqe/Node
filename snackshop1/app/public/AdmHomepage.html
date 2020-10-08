@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="http://localhost:7001/public/loginCookie.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+
+    <link rel="stylesheet" href="./admHomepage.css">
+    <script type="text/javascript">
+        window.onload = function () {
+            showAll();
+        }
+        //axios的ajax上传
+        function update() {
+            let name = document.getElementById("name").value;
+            let inf = document.getElementById("inf").value;
+            let file = document.getElementById("choose").files[0];
+            let formData = new FormData();
+            formData.append("name", name);
+            formData.append("inf", inf);
+            formData.append("uploadFile", file, file.name);
+            const config = {
+                headers: {
+                    "Content-Type": "multipart/form-data;boundary=" + new Date().getTime()
+                }
+            };
+            axios.post("/uploadFile.do", formData, config)
+                .then(r => {
+                    document.getElementsByClassName("newImg")[0].src = r.data;
+                    console.log(r.data);
+                    showAll();
+                }).catch(e => {
+                    console.log(e);
+                })
+
+        }
+    </script>
+    <script>
+        function showAll() {
+            axios.get("/showAll.do", {
+            }).then(r => {
+
+                console.log(r.data);
+                let list = r.data;
+                let table = document.getElementById("table1");
+                table.innerHTML = "";
+                let tr = document.createElement("tr");
+                let th1 = document.createElement("th");
+                th1.innerHTML = "编号";
+                let th2 = document.createElement("th");
+                th2.innerHTML = "名称";
+                let th3 = document.createElement("th");
+                th3.innerHTML = "介绍";
+                let th4 = document.createElement("th");
+                th4.innerHTML = "路径";
+                let th5 = document.createElement("th");
+                th5.innerHTML = "删除";
+                let th6 = document.createElement("th");
+                th6.innerHTML = "进入";
+                tr.appendChild(th1);
+                tr.appendChild(th2);
+                tr.appendChild(th3);
+                tr.appendChild(th4);
+                tr.appendChild(th5);
+                tr.appendChild(th6);
+                table.appendChild(tr);
+                // console.log(list)
+                for (let i = 0; i < list.length; i++) {
+                    let mtr = document.createElement("tr");
+                    let td01 = document.createElement("td");
+                    td01.innerHTML = list[i].id;
+                    let td02 = document.createElement("td");
+                    td02.innerHTML = list[i].name;
+                    td02.setAttribute("uid", list[i].id);
+                    td02.setAttribute("class", "tdname");
+                    let td03 = document.createElement("td");
+                    td03.innerHTML = list[i].inf;
+                    let td04 = document.createElement("td");
+                    td04.innerHTML = list[i].url;
+                    let td05 = document.createElement("td");
+                    let a = document.createElement("a");
+                    a.href = `javascript:delById(${list[i].id})`;
+                    a.innerHTML = "删除";
+                    td05.appendChild(a);
+                    let td06 = document.createElement("td");
+                    let a1 = document.createElement("a");
+                    a1.setAttribute("class", "tocandys")
+                    a1.innerHTML = "进入";
+                    td06.appendChild(a1);
+                    //let td6 = $(`<td><a href="javascript:toStuPage(${clazz.id},'${clazz.name}','${clazz.inf}')">学生</a></td>`) //+clazz.id+
+                    mtr.append(td01);
+                    mtr.append(td02);
+                    mtr.append(td03);
+                    mtr.append(td04);
+                    mtr.append(td05)
+                    mtr.append(td06);
+                    table.append(mtr);
+                }
+                let updList = document.getElementsByClassName("tdname");
+                // console.log(updList)
+                for (let i = 0; i < updList.length; i++) {
+                    updList[i].addEventListener('dblclick', function () {
+                        this.setAttribute("contenteditable", true);
+                        this.style.backgroundColor = "#ffffff";
+                    });
+                    updList[i].addEventListener('blur', function () {
+                        this.setAttribute("contenteditable", false);
+                        this.style.backgroundColor = "#d8f4f7";
+                        let shopsId = this.getAttribute("uid");
+                        console.log(shopsId);
+                        let newname = this.innerHTML;
+                        // console.log(this.innerHTML);
+                        axios.post("/updateName.do", {
+                            id: shopsId,
+                            newname: newname
+                        }).then(r => {
+                            // alert(r.data)
+                        }).catch(e => {
+
+                        })
+                    });
+                }
+                let tocandys = document.getElementsByClassName("tocandys");
+                tocandys[0].addEventListener('click',function(){
+                    location.href = "./AdmCandy.html"
+                })
+                tocandys[1].addEventListener('click',function(){
+                    location.href = "./AdmNuts.html"
+                })
+
+            }).catch(e => {
+                console.log(e);
+            })
+        }
+        contenteditable = "true"
+        function delById(myid) {
+            axios.get("/delById.do", {
+                params: {
+                    id: myid
+                }
+            }).then(r => {
+                if (r.data == 1) {//成功删除
+                    showAll();
+                } else {
+
+                }
+            }).catch(e => {
+
+            })
+        }
+    </script>
+
+
+</head>
+
+<body>
+    <div id="mydiv">
+        <table id="table1" cellspacing=' 0' cellpadding='0'>
+        </table>
+    </div>
+    <div id="updateDiv">
+        <h2>主页图片区域</h2>
+        商品名字:<input type="text" id="name" /> <br>
+        商品图片:<input type="file" id="choose" /><br>
+        商品介绍:<input type="text" id="inf" /><br>
+        <button onclick="update()">上传商品</button>
+        <img class="newImg" />
+    </div>
+</body>
+
+</html>

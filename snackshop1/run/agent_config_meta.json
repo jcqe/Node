@@ -1,0 +1,273 @@
+{
+  "keys": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\config\\config.default.js",
+  "multipart": {
+    "mode": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\config\\config.default.js",
+    "autoFields": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldSize": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fields": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileSize": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "files": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "whitelist": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "tmpdir": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "security": {
+    "csrf": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\config\\config.default.js",
+    "domainWhiteList": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "mysql": {
+    "client": {
+      "host": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\config\\config.default.js",
+      "port": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\config\\config.default.js",
+      "user": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\config\\config.default.js",
+      "password": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\config\\config.default.js",
+      "database": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\config\\config.default.js"
+    },
+    "default": {
+      "database": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+      "connectionLimit": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+    },
+    "app": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+    "agent": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+  },
+  "cors": {
+    "origin": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\config\\config.default.js",
+    "allowMethods": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "key": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "httpOnly": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "encrypt": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
+      "file": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "fastReady": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "mapping": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+  },
+  "env": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "name": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "cookies": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "proxy": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "maxIpsCount": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "maxProxyCount": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "protocolHeaders": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "ipHeaders": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "hostHeaders": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "version": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "main": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "test": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "author": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "license": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg-cors": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg-mysql": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "HOME": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "rundir": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "notFound": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "sitefile": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "middlewares": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "httpClient": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "encoding": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "formLimit": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "jsonLimit": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "textLimit": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "strict": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "depth": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "parameterLimit": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "onerror": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "encoding": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "env": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "level": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "consoleLevel": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "outputJSON": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "buffer": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "appLogName": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "coreLogName": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "agentLogName": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "errorLogName": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxSockets": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxSockets": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "logging": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "serverTimeout": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "port": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "hostname": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "responseTimeout": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "F:\\H\\Node.js\\eggs\\eggs\\snackshop1\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+}

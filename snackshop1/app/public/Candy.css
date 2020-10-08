@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.showDiv{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+div.item>img{
+    width: 250px;
+    height: 250px;
+}
+.item{
+    padding: 10px;
+}
+.showimg img{
+    width: 45px;
+    height: 45px;
+    border: 1px solid #CCCCCC;
+}

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<link rel="stylesheet" href="./Homepage.css">
+	<script src="http://localhost:7001/public/loginCookie.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+	<script>
+		window.onload = function () {
+			axios.get("/showAllShops.do", {
+
+			}).then(r => {
+				let list = r.data;
+				for (let i = 0; i < list.length; i++) {
+					let pics = list[i];
+					let div = document.createElement("div");
+					div.classList.add("item");
+					let img = document.createElement("img");
+					img.src = pics.url;
+					let p = document.createElement("p");
+					p.innerHTML = pics.name+":"+pics.inf;
+					let content = document.querySelector(".content");
+					content.appendChild(div);
+					div.appendChild(img);
+					div.appendChild(p);
+
+				}
+			}).catch(e => {
+
+			})
+		}
+	</script>
+	<!-- <script>
+		function Candy(){
+			location.href = "./candy.html"
+		}
+		function NUts(){
+			location.href="./Nuts.html"
+		}
+	</script> -->
+</head>
+
+<body>
+	<div>
+		<div class="header"></div>
+		<div class="banner">
+			<a href="Candy.html" >糖果类</a>
+			<a href="Nuts.html" >干果类</a>
+			<a href="#" onclick="Drink()">冲剂饮品类</a>
+			<a href="#" onclick="Ice()">冰淇淋</a>
+			<a href="#" onclick="Chocolate()">巧克力</a>
+		</div>
+		<div class="content"></div>
+		<div class="service">
+			<div>
+				<div class="L">优</div>
+				<div class="R">
+					<p>品质保障</p>
+					<p>品质护航 购物无忧</p>
+				</div>
+			</div>
+			<div>
+				<div class="L">七</div>
+				<div class="R">
+					<p>七天无理由退换货</p>
+					<p>为您提供售后无忧保障</p>
+				</div>
+			</div>
+			<div>
+				<div class="L">特</div>
+				<div class="R">
+					<p>特色服务体验</p>
+					<p>为您呈现不一样的服务</p>
+				</div>
+			</div>
+			<div>
+				<div class="L">帮</div>
+				<div class="R">
+					<p>帮助中心</p>
+					<p>您的购物指南</p>
+				</div>
+			</div>
+		</div>
+		<div class="footer"></div>
+	</div>
+
+</body>
+
+</html>
